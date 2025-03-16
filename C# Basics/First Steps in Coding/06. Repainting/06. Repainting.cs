@@ -1,0 +1,11 @@
+﻿int nylon = int.Parse(Console.ReadLine());
+int paint = int.Parse(Console.ReadLine());
+int thinner = int.Parse(Console.ReadLine());
+int hours = int.Parse(Console.ReadLine());
+double priceNylon = (nylon + 2) * 1.5;
+double pricePaint = (paint + (paint * 0.10)) * 14.5;
+double priceThinner = thinner * 5;
+double sumMaterials = priceNylon + pricePaint + priceThinner + 0.4;
+double sumWork = (sumMaterials * 0.3) * hours;
+double result = sumMaterials + sumWork;
+Console.WriteLine(result);
