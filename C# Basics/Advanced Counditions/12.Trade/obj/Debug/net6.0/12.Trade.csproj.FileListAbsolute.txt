@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\bin\Debug\net6.0\12.Trade.exe
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\bin\Debug\net6.0\12.Trade.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\bin\Debug\net6.0\12.Trade.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\bin\Debug\net6.0\12.Trade.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\bin\Debug\net6.0\12.Trade.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\obj\Debug\net6.0\12.Trade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\obj\Debug\net6.0\12.Trade.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\obj\Debug\net6.0\12.Trade.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\obj\Debug\net6.0\12.Trade.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\obj\Debug\net6.0\12.Trade.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\obj\Debug\net6.0\refint\12.Trade.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\obj\Debug\net6.0\12.Trade.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\obj\Debug\net6.0\12.Trade.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\12.Trade\obj\Debug\net6.0\ref\12.Trade.dll
