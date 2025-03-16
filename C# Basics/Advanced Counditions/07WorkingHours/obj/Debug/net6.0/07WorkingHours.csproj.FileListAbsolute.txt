@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\bin\Debug\net6.0\07WorkingHours.exe
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\bin\Debug\net6.0\07WorkingHours.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\bin\Debug\net6.0\07WorkingHours.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\bin\Debug\net6.0\07WorkingHours.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\bin\Debug\net6.0\07WorkingHours.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\obj\Debug\net6.0\07WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\obj\Debug\net6.0\07WorkingHours.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\obj\Debug\net6.0\07WorkingHours.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\obj\Debug\net6.0\07WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\obj\Debug\net6.0\07WorkingHours.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\obj\Debug\net6.0\refint\07WorkingHours.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\obj\Debug\net6.0\07WorkingHours.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\obj\Debug\net6.0\07WorkingHours.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\07WorkingHours\obj\Debug\net6.0\ref\07WorkingHours.dll
