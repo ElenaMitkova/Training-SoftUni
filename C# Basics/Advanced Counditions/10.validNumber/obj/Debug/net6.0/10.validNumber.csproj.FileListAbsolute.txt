@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\bin\Debug\net6.0\10.validNumber.exe
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\bin\Debug\net6.0\10.validNumber.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\bin\Debug\net6.0\10.validNumber.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\bin\Debug\net6.0\10.validNumber.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\bin\Debug\net6.0\10.validNumber.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\obj\Debug\net6.0\10.validNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\obj\Debug\net6.0\10.validNumber.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\obj\Debug\net6.0\10.validNumber.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\obj\Debug\net6.0\10.validNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\obj\Debug\net6.0\10.validNumber.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\obj\Debug\net6.0\refint\10.validNumber.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\obj\Debug\net6.0\10.validNumber.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\obj\Debug\net6.0\10.validNumber.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\10.validNumber\obj\Debug\net6.0\ref\10.validNumber.dll
