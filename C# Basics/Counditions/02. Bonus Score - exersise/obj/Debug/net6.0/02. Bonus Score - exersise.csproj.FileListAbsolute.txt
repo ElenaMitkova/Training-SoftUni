@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\bin\Debug\net6.0\02. Bonus Score - exersise.exe
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\bin\Debug\net6.0\02. Bonus Score - exersise.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\bin\Debug\net6.0\02. Bonus Score - exersise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\bin\Debug\net6.0\02. Bonus Score - exersise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\bin\Debug\net6.0\02. Bonus Score - exersise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\obj\Debug\net6.0\02. Bonus Score - exersise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\obj\Debug\net6.0\02. Bonus Score - exersise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\obj\Debug\net6.0\02. Bonus Score - exersise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\obj\Debug\net6.0\02. Bonus Score - exersise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\obj\Debug\net6.0\02. Bonus Score - exersise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\obj\Debug\net6.0\refint\02. Bonus Score - exersise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\obj\Debug\net6.0\02. Bonus Score - exersise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\obj\Debug\net6.0\02. Bonus Score - exersise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Bonus Score - exersise\obj\Debug\net6.0\ref\02. Bonus Score - exersise.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.exe
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\obj\Debug\net6.0\refint\02. Greater Number.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\02. Greater Number\obj\Debug\net6.0\ref\02. Greater Number.dll
