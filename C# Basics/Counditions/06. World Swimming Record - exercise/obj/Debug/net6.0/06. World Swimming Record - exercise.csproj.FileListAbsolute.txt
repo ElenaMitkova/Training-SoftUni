@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\bin\Debug\net6.0\06. World Swimming Record - exercise.exe
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\bin\Debug\net6.0\06. World Swimming Record - exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\bin\Debug\net6.0\06. World Swimming Record - exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\bin\Debug\net6.0\06. World Swimming Record - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\bin\Debug\net6.0\06. World Swimming Record - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\obj\Debug\net6.0\06. World Swimming Record - exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\obj\Debug\net6.0\06. World Swimming Record - exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\obj\Debug\net6.0\06. World Swimming Record - exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\obj\Debug\net6.0\06. World Swimming Record - exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\obj\Debug\net6.0\06. World Swimming Record - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\obj\Debug\net6.0\refint\06. World Swimming Record - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\obj\Debug\net6.0\06. World Swimming Record - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\obj\Debug\net6.0\06. World Swimming Record - exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\06. World Swimming Record - exercise\obj\Debug\net6.0\ref\06. World Swimming Record - exercise.dll
