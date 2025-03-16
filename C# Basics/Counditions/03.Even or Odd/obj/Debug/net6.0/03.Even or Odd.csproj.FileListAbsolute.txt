@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\bin\Debug\net6.0\03.Even or Odd.exe
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\bin\Debug\net6.0\03.Even or Odd.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\bin\Debug\net6.0\03.Even or Odd.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\bin\Debug\net6.0\03.Even or Odd.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\bin\Debug\net6.0\03.Even or Odd.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\obj\Debug\net6.0\03.Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\obj\Debug\net6.0\03.Even or Odd.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\obj\Debug\net6.0\03.Even or Odd.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\obj\Debug\net6.0\03.Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\obj\Debug\net6.0\03.Even or Odd.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\obj\Debug\net6.0\refint\03.Even or Odd.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\obj\Debug\net6.0\03.Even or Odd.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\obj\Debug\net6.0\03.Even or Odd.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\03.Even or Odd\obj\Debug\net6.0\ref\03.Even or Odd.dll
