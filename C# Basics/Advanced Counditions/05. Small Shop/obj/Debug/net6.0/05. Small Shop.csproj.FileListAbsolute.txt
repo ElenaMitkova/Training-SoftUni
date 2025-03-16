@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\bin\Debug\net6.0\05. Small Shop.exe
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\bin\Debug\net6.0\05. Small Shop.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\bin\Debug\net6.0\05. Small Shop.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\bin\Debug\net6.0\05. Small Shop.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\bin\Debug\net6.0\05. Small Shop.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\refint\05. Small Shop.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\ref\05. Small Shop.dll

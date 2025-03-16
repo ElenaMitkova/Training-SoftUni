@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.exe
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\bin\Debug\net6.0\04.FishingBoat.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\obj\Debug\net6.0\refint\04.FishingBoat.dll
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\obj\Debug\net6.0\04.FishingBoat.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August 2024) Basics - Conditional Statements Advanced\04.FishingBoat\obj\Debug\net6.0\ref\04.FishingBoat.dll
