@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\bin\Debug\net6.0\05. Godzilla vs. Kong - exercise.exe
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\bin\Debug\net6.0\05. Godzilla vs. Kong - exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\bin\Debug\net6.0\05. Godzilla vs. Kong - exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\bin\Debug\net6.0\05. Godzilla vs. Kong - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\bin\Debug\net6.0\05. Godzilla vs. Kong - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\obj\Debug\net6.0\05. Godzilla vs. Kong - exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\obj\Debug\net6.0\05. Godzilla vs. Kong - exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\obj\Debug\net6.0\05. Godzilla vs. Kong - exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\obj\Debug\net6.0\05. Godzilla vs. Kong - exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\obj\Debug\net6.0\05. Godzilla vs. Kong - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\obj\Debug\net6.0\refint\05. Godzilla vs. Kong - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\obj\Debug\net6.0\05. Godzilla vs. Kong - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\obj\Debug\net6.0\05. Godzilla vs. Kong - exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Godzilla vs. Kong - exercise\obj\Debug\net6.0\ref\05. Godzilla vs. Kong - exercise.dll

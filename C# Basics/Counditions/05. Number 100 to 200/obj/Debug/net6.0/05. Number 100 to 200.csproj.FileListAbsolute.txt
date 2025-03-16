@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\bin\Debug\net6.0\05. Number 100 to 200.exe
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\bin\Debug\net6.0\05. Number 100 to 200.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\bin\Debug\net6.0\05. Number 100 to 200.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\bin\Debug\net6.0\05. Number 100 to 200.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\bin\Debug\net6.0\05. Number 100 to 200.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\obj\Debug\net6.0\05. Number 100 to 200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\obj\Debug\net6.0\05. Number 100 to 200.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\obj\Debug\net6.0\05. Number 100 to 200.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\obj\Debug\net6.0\05. Number 100 to 200.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\obj\Debug\net6.0\05. Number 100 to 200.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\obj\Debug\net6.0\refint\05. Number 100 to 200.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\obj\Debug\net6.0\05. Number 100 to 200.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\obj\Debug\net6.0\05. Number 100 to 200.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\05. Number 100 to 200\obj\Debug\net6.0\ref\05. Number 100 to 200.dll
