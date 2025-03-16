@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\bin\Debug\net6.0\07. Shopping - exercise.exe
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\bin\Debug\net6.0\07. Shopping - exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\bin\Debug\net6.0\07. Shopping - exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\bin\Debug\net6.0\07. Shopping - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\bin\Debug\net6.0\07. Shopping - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\obj\Debug\net6.0\07. Shopping - exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\obj\Debug\net6.0\07. Shopping - exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\obj\Debug\net6.0\07. Shopping - exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\obj\Debug\net6.0\07. Shopping - exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\obj\Debug\net6.0\07. Shopping - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\obj\Debug\net6.0\refint\07. Shopping - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\obj\Debug\net6.0\07. Shopping - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\obj\Debug\net6.0\07. Shopping - exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\07. Shopping - exercise\obj\Debug\net6.0\ref\07. Shopping - exercise.dll

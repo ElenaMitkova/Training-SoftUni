@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\bin\Debug\net6.0\08. Lunch Break - exercise.exe
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\bin\Debug\net6.0\08. Lunch Break - exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\bin\Debug\net6.0\08. Lunch Break - exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\bin\Debug\net6.0\08. Lunch Break - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\bin\Debug\net6.0\08. Lunch Break - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\obj\Debug\net6.0\08. Lunch Break - exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\obj\Debug\net6.0\08. Lunch Break - exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\obj\Debug\net6.0\08. Lunch Break - exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\obj\Debug\net6.0\08. Lunch Break - exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\obj\Debug\net6.0\08. Lunch Break - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\obj\Debug\net6.0\refint\08. Lunch Break - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\obj\Debug\net6.0\08. Lunch Break - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\obj\Debug\net6.0\08. Lunch Break - exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\08. Lunch Break - exercise\obj\Debug\net6.0\ref\08. Lunch Break - exercise.dll
