@@ -1,0 +1,18 @@
+﻿double priceForHoliday = double.Parse(Console.ReadLine());
+int puzzlesCount = int.Parse(Console.ReadLine());
+int speakingDollsCount = int.Parse(Console.ReadLine());
+int plushBearsCount = int.Parse(Console.ReadLine());
+int minionsCount = int.Parse(Console.ReadLine());
+int trucksCount = int.Parse(Console.ReadLine());
+int summaryCount = puzzlesCount + speakingDollsCount + plushBearsCount + minionsCount + trucksCount;
+double puzzlesPrize = puzzlesCount * 2.6;
+double speakingDollsPrize = speakingDollsCount * 3;
+double plushBearsPrize = plushBearsCount * 4.1;
+double minionsPrize = minionsCount * 8.2;
+double truckPrize = trucksCount * 2;
+double summaryPrize = puzzlesPrize + speakingDollsPrize + plushBearsPrize + minionsPrize + truckPrize;
+if (summaryCount > 50) summaryPrize = summaryPrize - (summaryPrize * 0.25);
+double rent = summaryPrize * 0.9;
+double money = summaryPrize - rent;
+if (money > priceForHoliday) Console.WriteLine($"Yes! {(money - priceForHoliday):f2} lv left.");
+else Console.WriteLine($"Not enough money! {(priceForHoliday - money):f2} lv needed.");

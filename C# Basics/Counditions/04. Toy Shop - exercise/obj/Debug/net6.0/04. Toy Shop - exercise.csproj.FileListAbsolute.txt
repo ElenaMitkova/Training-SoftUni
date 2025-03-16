@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\bin\Debug\net6.0\04. Toy Shop - exercise.exe
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\bin\Debug\net6.0\04. Toy Shop - exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\bin\Debug\net6.0\04. Toy Shop - exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\bin\Debug\net6.0\04. Toy Shop - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\bin\Debug\net6.0\04. Toy Shop - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\obj\Debug\net6.0\04. Toy Shop - exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\obj\Debug\net6.0\04. Toy Shop - exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\obj\Debug\net6.0\04. Toy Shop - exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\obj\Debug\net6.0\04. Toy Shop - exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\obj\Debug\net6.0\04. Toy Shop - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\obj\Debug\net6.0\refint\04. Toy Shop - exercise.dll
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\obj\Debug\net6.0\04. Toy Shop - exercise.pdb
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\obj\Debug\net6.0\04. Toy Shop - exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni (July - August) Basics - Conditional Statements\04. Toy Shop - exercise\obj\Debug\net6.0\ref\04. Toy Shop - exercise.dll
