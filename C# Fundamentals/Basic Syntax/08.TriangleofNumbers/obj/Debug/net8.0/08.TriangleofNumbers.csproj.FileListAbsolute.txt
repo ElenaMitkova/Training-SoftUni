@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\bin\Debug\net8.0\08.TriangleofNumbers.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\bin\Debug\net8.0\08.TriangleofNumbers.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\bin\Debug\net8.0\08.TriangleofNumbers.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\bin\Debug\net8.0\08.TriangleofNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\bin\Debug\net8.0\08.TriangleofNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\obj\Debug\net8.0\08.TriangleofNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\obj\Debug\net8.0\08.TriangleofNumbers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\obj\Debug\net8.0\08.TriangleofNumbers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\obj\Debug\net8.0\08.TriangleofNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\obj\Debug\net8.0\08.TriangleofNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\obj\Debug\net8.0\refint\08.TriangleofNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\obj\Debug\net8.0\08.TriangleofNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\obj\Debug\net8.0\08.TriangleofNumbers.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\08.TriangleofNumbers\obj\Debug\net8.0\ref\08.TriangleofNumbers.dll
