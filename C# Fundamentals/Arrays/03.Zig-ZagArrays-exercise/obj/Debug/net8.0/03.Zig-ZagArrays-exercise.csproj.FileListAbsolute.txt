@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\bin\Debug\net8.0\03.Zig-ZagArrays-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\bin\Debug\net8.0\03.Zig-ZagArrays-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\bin\Debug\net8.0\03.Zig-ZagArrays-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\bin\Debug\net8.0\03.Zig-ZagArrays-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\bin\Debug\net8.0\03.Zig-ZagArrays-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\obj\Debug\net8.0\03.Zig-ZagArrays-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\obj\Debug\net8.0\03.Zig-ZagArrays-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\obj\Debug\net8.0\03.Zig-ZagArrays-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\obj\Debug\net8.0\03.Zig-ZagArrays-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\obj\Debug\net8.0\03.Zig-ZagArrays-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\obj\Debug\net8.0\refint\03.Zig-ZagArrays-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\obj\Debug\net8.0\03.Zig-ZagArrays-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\obj\Debug\net8.0\03.Zig-ZagArrays-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.Zig-ZagArrays-exercise\obj\Debug\net8.0\ref\03.Zig-ZagArrays-exercise.dll

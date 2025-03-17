@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\bin\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\bin\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\bin\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\bin\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\bin\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\obj\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\obj\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\obj\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\obj\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\obj\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\obj\Debug\net8.0\refint\03.RecursiveFibonacci-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\obj\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\obj\Debug\net8.0\03.RecursiveFibonacci-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\03.RecursiveFibonacci-MoreExercise\obj\Debug\net8.0\ref\03.RecursiveFibonacci-MoreExercise.dll
