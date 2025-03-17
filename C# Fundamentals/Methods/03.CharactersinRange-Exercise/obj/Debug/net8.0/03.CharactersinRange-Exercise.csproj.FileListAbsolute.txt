@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\bin\Debug\net8.0\03.CharactersinRange-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\bin\Debug\net8.0\03.CharactersinRange-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\bin\Debug\net8.0\03.CharactersinRange-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\bin\Debug\net8.0\03.CharactersinRange-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\bin\Debug\net8.0\03.CharactersinRange-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\obj\Debug\net8.0\03.CharactersinRange-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\obj\Debug\net8.0\03.CharactersinRange-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\obj\Debug\net8.0\03.CharactersinRange-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\obj\Debug\net8.0\03.CharactersinRange-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\obj\Debug\net8.0\03.CharactersinRange-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\obj\Debug\net8.0\refint\03.CharactersinRange-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\obj\Debug\net8.0\03.CharactersinRange-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\obj\Debug\net8.0\03.CharactersinRange-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\03.CharactersinRange-Exercise\obj\Debug\net8.0\ref\03.CharactersinRange-Exercise.dll
