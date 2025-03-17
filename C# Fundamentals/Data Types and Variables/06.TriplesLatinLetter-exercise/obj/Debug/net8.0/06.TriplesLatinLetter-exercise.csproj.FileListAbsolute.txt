@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\bin\Debug\net8.0\06.TriplesLatinLetter-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\bin\Debug\net8.0\06.TriplesLatinLetter-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\bin\Debug\net8.0\06.TriplesLatinLetter-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\bin\Debug\net8.0\06.TriplesLatinLetter-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\bin\Debug\net8.0\06.TriplesLatinLetter-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\obj\Debug\net8.0\06.TriplesLatinLetter-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\obj\Debug\net8.0\06.TriplesLatinLetter-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\obj\Debug\net8.0\06.TriplesLatinLetter-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\obj\Debug\net8.0\06.TriplesLatinLetter-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\obj\Debug\net8.0\06.TriplesLatinLetter-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\obj\Debug\net8.0\refint\06.TriplesLatinLetter-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\obj\Debug\net8.0\06.TriplesLatinLetter-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\obj\Debug\net8.0\06.TriplesLatinLetter-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\06.TriplesLatinLetter-exercise\obj\Debug\net8.0\ref\06.TriplesLatinLetter-exercise.dll
