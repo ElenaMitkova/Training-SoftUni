@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\bin\Debug\net8.0\03.Elevator-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\bin\Debug\net8.0\03.Elevator-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\bin\Debug\net8.0\03.Elevator-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\bin\Debug\net8.0\03.Elevator-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\bin\Debug\net8.0\03.Elevator-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\obj\Debug\net8.0\03.Elevator-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\obj\Debug\net8.0\03.Elevator-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\obj\Debug\net8.0\03.Elevator-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\obj\Debug\net8.0\03.Elevator-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\obj\Debug\net8.0\03.Elevator-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\obj\Debug\net8.0\refint\03.Elevator-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\obj\Debug\net8.0\03.Elevator-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\obj\Debug\net8.0\03.Elevator-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.Elevator-exercise\obj\Debug\net8.0\ref\03.Elevator-exercise.dll

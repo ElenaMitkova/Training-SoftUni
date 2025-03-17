@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\bin\Debug\net8.0\03.ExactSumofRealNumbers.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\bin\Debug\net8.0\03.ExactSumofRealNumbers.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\bin\Debug\net8.0\03.ExactSumofRealNumbers.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\bin\Debug\net8.0\03.ExactSumofRealNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\bin\Debug\net8.0\03.ExactSumofRealNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\obj\Debug\net8.0\03.ExactSumofRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\obj\Debug\net8.0\03.ExactSumofRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\obj\Debug\net8.0\03.ExactSumofRealNumbers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\obj\Debug\net8.0\03.ExactSumofRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\obj\Debug\net8.0\03.ExactSumofRealNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\obj\Debug\net8.0\refint\03.ExactSumofRealNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\obj\Debug\net8.0\03.ExactSumofRealNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\obj\Debug\net8.0\03.ExactSumofRealNumbers.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\03.ExactSumofRealNumbers\obj\Debug\net8.0\ref\03.ExactSumofRealNumbers.dll
