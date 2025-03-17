@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\bin\Debug\net8.0\09.SumofOddNumbers.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\bin\Debug\net8.0\09.SumofOddNumbers.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\bin\Debug\net8.0\09.SumofOddNumbers.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\bin\Debug\net8.0\09.SumofOddNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\bin\Debug\net8.0\09.SumofOddNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\obj\Debug\net8.0\09.SumofOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\obj\Debug\net8.0\09.SumofOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\obj\Debug\net8.0\09.SumofOddNumbers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\obj\Debug\net8.0\09.SumofOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\obj\Debug\net8.0\09.SumofOddNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\obj\Debug\net8.0\refint\09.SumofOddNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\obj\Debug\net8.0\09.SumofOddNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\obj\Debug\net8.0\09.SumofOddNumbers.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\09.SumofOddNumbers\obj\Debug\net8.0\ref\09.SumofOddNumbers.dll

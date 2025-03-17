@@ -1,0 +1,11 @@
+﻿double money = double.Parse(Console.ReadLine());
+int countOfStudents = int.Parse(Console.ReadLine());
+double priceOfLightSabers = double.Parse(Console.ReadLine());
+double priceOfRobes = double.Parse(Console.ReadLine());
+double priceOfBelts = double.Parse(Console.ReadLine());
+double priceForLights = (countOfStudents + Math.Ceiling(countOfStudents*0.1))*priceOfLightSabers;
+double priceForRobes = priceOfRobes * countOfStudents;
+double priceForBelts = priceOfBelts * countOfStudents - (countOfStudents / 6 * priceOfBelts);
+double total = priceForLights + priceForRobes + priceForBelts;
+if(total <= money) Console.WriteLine($"The money is enough - it would cost {total:F2}lv.");
+else Console.WriteLine($"John will need {total-money:F2}lv more.");
