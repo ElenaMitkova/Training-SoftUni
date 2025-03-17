@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\bin\Debug\net8.0\07.WaterOverflow-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\bin\Debug\net8.0\07.WaterOverflow-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\bin\Debug\net8.0\07.WaterOverflow-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\bin\Debug\net8.0\07.WaterOverflow-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\bin\Debug\net8.0\07.WaterOverflow-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\obj\Debug\net8.0\07.WaterOverflow-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\obj\Debug\net8.0\07.WaterOverflow-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\obj\Debug\net8.0\07.WaterOverflow-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\obj\Debug\net8.0\07.WaterOverflow-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\obj\Debug\net8.0\07.WaterOverflow-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\obj\Debug\net8.0\refint\07.WaterOverflow-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\obj\Debug\net8.0\07.WaterOverflow-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\obj\Debug\net8.0\07.WaterOverflow-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\07.WaterOverflow-exercise\obj\Debug\net8.0\ref\07.WaterOverflow-exercise.dll

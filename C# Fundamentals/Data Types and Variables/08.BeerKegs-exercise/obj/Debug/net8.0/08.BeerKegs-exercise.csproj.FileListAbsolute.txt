@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\bin\Debug\net8.0\08.BeerKegs-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\bin\Debug\net8.0\08.BeerKegs-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\bin\Debug\net8.0\08.BeerKegs-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\bin\Debug\net8.0\08.BeerKegs-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\bin\Debug\net8.0\08.BeerKegs-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\obj\Debug\net8.0\08.BeerKegs-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\obj\Debug\net8.0\08.BeerKegs-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\obj\Debug\net8.0\08.BeerKegs-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\obj\Debug\net8.0\08.BeerKegs-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\obj\Debug\net8.0\08.BeerKegs-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\obj\Debug\net8.0\refint\08.BeerKegs-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\obj\Debug\net8.0\08.BeerKegs-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\obj\Debug\net8.0\08.BeerKegs-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\08.BeerKegs-exercise\obj\Debug\net8.0\ref\08.BeerKegs-exercise.dll
