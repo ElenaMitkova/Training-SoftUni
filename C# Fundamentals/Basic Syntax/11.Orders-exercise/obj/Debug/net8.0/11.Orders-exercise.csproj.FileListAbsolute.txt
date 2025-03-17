@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\bin\Debug\net8.0\11.Orders-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\bin\Debug\net8.0\11.Orders-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\bin\Debug\net8.0\11.Orders-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\bin\Debug\net8.0\11.Orders-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\bin\Debug\net8.0\11.Orders-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\obj\Debug\net8.0\11.Orders-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\obj\Debug\net8.0\11.Orders-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\obj\Debug\net8.0\11.Orders-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\obj\Debug\net8.0\11.Orders-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\obj\Debug\net8.0\11.Orders-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\obj\Debug\net8.0\refint\11.Orders-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\obj\Debug\net8.0\11.Orders-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\obj\Debug\net8.0\11.Orders-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\11.Orders-exercise\obj\Debug\net8.0\ref\11.Orders-exercise.dll
