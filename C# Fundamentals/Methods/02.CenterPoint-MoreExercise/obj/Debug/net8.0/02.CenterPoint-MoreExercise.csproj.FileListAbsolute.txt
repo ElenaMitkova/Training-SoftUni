@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\bin\Debug\net8.0\02.CenterPoint-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\bin\Debug\net8.0\02.CenterPoint-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\bin\Debug\net8.0\02.CenterPoint-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\bin\Debug\net8.0\02.CenterPoint-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\bin\Debug\net8.0\02.CenterPoint-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\obj\Debug\net8.0\02.CenterPoint-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\obj\Debug\net8.0\02.CenterPoint-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\obj\Debug\net8.0\02.CenterPoint-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\obj\Debug\net8.0\02.CenterPoint-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\obj\Debug\net8.0\02.CenterPoint-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\obj\Debug\net8.0\refint\02.CenterPoint-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\obj\Debug\net8.0\02.CenterPoint-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\obj\Debug\net8.0\02.CenterPoint-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\02.CenterPoint-MoreExercise\obj\Debug\net8.0\ref\02.CenterPoint-MoreExercise.dll
