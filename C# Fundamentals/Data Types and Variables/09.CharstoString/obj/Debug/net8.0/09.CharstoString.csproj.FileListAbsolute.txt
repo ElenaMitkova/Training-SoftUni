@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\bin\Debug\net8.0\09.CharstoString.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\bin\Debug\net8.0\09.CharstoString.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\bin\Debug\net8.0\09.CharstoString.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\bin\Debug\net8.0\09.CharstoString.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\bin\Debug\net8.0\09.CharstoString.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\obj\Debug\net8.0\09.CharstoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\obj\Debug\net8.0\09.CharstoString.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\obj\Debug\net8.0\09.CharstoString.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\obj\Debug\net8.0\09.CharstoString.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\obj\Debug\net8.0\09.CharstoString.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\obj\Debug\net8.0\refint\09.CharstoString.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\obj\Debug\net8.0\09.CharstoString.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\obj\Debug\net8.0\09.CharstoString.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.CharstoString\obj\Debug\net8.0\ref\09.CharstoString.dll

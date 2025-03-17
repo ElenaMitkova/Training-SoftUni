@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\bin\Debug\net8.0\09.SpiceMustFlow-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\bin\Debug\net8.0\09.SpiceMustFlow-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\bin\Debug\net8.0\09.SpiceMustFlow-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\bin\Debug\net8.0\09.SpiceMustFlow-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\bin\Debug\net8.0\09.SpiceMustFlow-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\obj\Debug\net8.0\09.SpiceMustFlow-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\obj\Debug\net8.0\09.SpiceMustFlow-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\obj\Debug\net8.0\09.SpiceMustFlow-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\obj\Debug\net8.0\09.SpiceMustFlow-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\obj\Debug\net8.0\09.SpiceMustFlow-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\obj\Debug\net8.0\refint\09.SpiceMustFlow-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\obj\Debug\net8.0\09.SpiceMustFlow-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\obj\Debug\net8.0\09.SpiceMustFlow-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\09.SpiceMustFlow-exercise\obj\Debug\net8.0\ref\09.SpiceMustFlow-exercise.dll
