@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\bin\Debug\net8.0\08.MathPower.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\bin\Debug\net8.0\08.MathPower.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\bin\Debug\net8.0\08.MathPower.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\bin\Debug\net8.0\08.MathPower.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\bin\Debug\net8.0\08.MathPower.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\obj\Debug\net8.0\08.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\obj\Debug\net8.0\08.MathPower.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\obj\Debug\net8.0\08.MathPower.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\obj\Debug\net8.0\08.MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\obj\Debug\net8.0\08.MathPower.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\obj\Debug\net8.0\refint\08.MathPower.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\obj\Debug\net8.0\08.MathPower.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\obj\Debug\net8.0\08.MathPower.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\08.MathPower\obj\Debug\net8.0\ref\08.MathPower.dll
