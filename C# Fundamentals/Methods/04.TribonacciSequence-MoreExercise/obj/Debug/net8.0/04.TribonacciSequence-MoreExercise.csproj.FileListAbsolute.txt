@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\bin\Debug\net8.0\04.TribonacciSequence-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\bin\Debug\net8.0\04.TribonacciSequence-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\bin\Debug\net8.0\04.TribonacciSequence-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\bin\Debug\net8.0\04.TribonacciSequence-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\bin\Debug\net8.0\04.TribonacciSequence-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\obj\Debug\net8.0\04.TribonacciSequence-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\obj\Debug\net8.0\04.TribonacciSequence-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\obj\Debug\net8.0\04.TribonacciSequence-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\obj\Debug\net8.0\04.TribonacciSequence-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\obj\Debug\net8.0\04.TribonacciSequence-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\obj\Debug\net8.0\refint\04.TribonacciSequence-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\obj\Debug\net8.0\04.TribonacciSequence-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\obj\Debug\net8.0\04.TribonacciSequence-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\04.TribonacciSequence-MoreExercise\obj\Debug\net8.0\ref\04.TribonacciSequence-MoreExercise.dll
