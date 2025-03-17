@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\bin\Debug\net8.0\01.DataTypeFinder-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\bin\Debug\net8.0\01.DataTypeFinder-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\bin\Debug\net8.0\01.DataTypeFinder-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\bin\Debug\net8.0\01.DataTypeFinder-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\bin\Debug\net8.0\01.DataTypeFinder-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\obj\Debug\net8.0\01.DataTypeFinder-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\obj\Debug\net8.0\01.DataTypeFinder-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\obj\Debug\net8.0\01.DataTypeFinder-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\obj\Debug\net8.0\01.DataTypeFinder-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\obj\Debug\net8.0\01.DataTypeFinder-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\obj\Debug\net8.0\refint\01.DataTypeFinder-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\obj\Debug\net8.0\01.DataTypeFinder-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\obj\Debug\net8.0\01.DataTypeFinder-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.DataTypeFinder-MoreExercise\obj\Debug\net8.0\ref\01.DataTypeFinder-MoreExercise.dll

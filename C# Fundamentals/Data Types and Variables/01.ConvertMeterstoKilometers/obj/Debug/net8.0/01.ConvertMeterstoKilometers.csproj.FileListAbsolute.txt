@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\bin\Debug\net8.0\01.ConvertMeterstoKilometers.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\bin\Debug\net8.0\01.ConvertMeterstoKilometers.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\bin\Debug\net8.0\01.ConvertMeterstoKilometers.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\bin\Debug\net8.0\01.ConvertMeterstoKilometers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\bin\Debug\net8.0\01.ConvertMeterstoKilometers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\obj\Debug\net8.0\01.ConvertMeterstoKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\obj\Debug\net8.0\01.ConvertMeterstoKilometers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\obj\Debug\net8.0\01.ConvertMeterstoKilometers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\obj\Debug\net8.0\01.ConvertMeterstoKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\obj\Debug\net8.0\01.ConvertMeterstoKilometers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\obj\Debug\net8.0\refint\01.ConvertMeterstoKilometers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\obj\Debug\net8.0\01.ConvertMeterstoKilometers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\obj\Debug\net8.0\01.ConvertMeterstoKilometers.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.ConvertMeterstoKilometers\obj\Debug\net8.0\ref\01.ConvertMeterstoKilometers.dll

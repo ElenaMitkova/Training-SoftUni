@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\bin\Debug\net8.0\01.IntegerOperations-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\bin\Debug\net8.0\01.IntegerOperations-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\bin\Debug\net8.0\01.IntegerOperations-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\bin\Debug\net8.0\01.IntegerOperations-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\bin\Debug\net8.0\01.IntegerOperations-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\obj\Debug\net8.0\01.IntegerOperations-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\obj\Debug\net8.0\01.IntegerOperations-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\obj\Debug\net8.0\01.IntegerOperations-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\obj\Debug\net8.0\01.IntegerOperations-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\obj\Debug\net8.0\01.IntegerOperations-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\obj\Debug\net8.0\refint\01.IntegerOperations-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\obj\Debug\net8.0\01.IntegerOperations-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\obj\Debug\net8.0\01.IntegerOperations-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\01.IntegerOperations-exercise\obj\Debug\net8.0\ref\01.IntegerOperations-exercise.dll
