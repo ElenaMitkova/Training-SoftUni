@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\bin\Debug\net8.0\06.EqualSum-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\bin\Debug\net8.0\06.EqualSum-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\bin\Debug\net8.0\06.EqualSum-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\bin\Debug\net8.0\06.EqualSum-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\bin\Debug\net8.0\06.EqualSum-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\obj\Debug\net8.0\06.EqualSum-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\obj\Debug\net8.0\06.EqualSum-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\obj\Debug\net8.0\06.EqualSum-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\obj\Debug\net8.0\06.EqualSum-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\obj\Debug\net8.0\06.EqualSum-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\obj\Debug\net8.0\refint\06.EqualSum-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\obj\Debug\net8.0\06.EqualSum-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\obj\Debug\net8.0\06.EqualSum-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EqualSum-exercise\obj\Debug\net8.0\ref\06.EqualSum-exercise.dll

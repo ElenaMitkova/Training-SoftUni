@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\bin\Debug\net8.0\06.EvenandOddSubtraction.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\bin\Debug\net8.0\06.EvenandOddSubtraction.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\bin\Debug\net8.0\06.EvenandOddSubtraction.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\bin\Debug\net8.0\06.EvenandOddSubtraction.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\bin\Debug\net8.0\06.EvenandOddSubtraction.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\obj\Debug\net8.0\06.EvenandOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\obj\Debug\net8.0\06.EvenandOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\obj\Debug\net8.0\06.EvenandOddSubtraction.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\obj\Debug\net8.0\06.EvenandOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\obj\Debug\net8.0\06.EvenandOddSubtraction.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\obj\Debug\net8.0\refint\06.EvenandOddSubtraction.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\obj\Debug\net8.0\06.EvenandOddSubtraction.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\obj\Debug\net8.0\06.EvenandOddSubtraction.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\06.EvenandOddSubtraction\obj\Debug\net8.0\ref\06.EvenandOddSubtraction.dll
