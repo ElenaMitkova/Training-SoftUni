@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\bin\Debug\net8.0\05.PartOfASCIITable-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\bin\Debug\net8.0\05.PartOfASCIITable-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\bin\Debug\net8.0\05.PartOfASCIITable-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\bin\Debug\net8.0\05.PartOfASCIITable-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\bin\Debug\net8.0\05.PartOfASCIITable-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\obj\Debug\net8.0\05.PartOfASCIITable-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\obj\Debug\net8.0\05.PartOfASCIITable-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\obj\Debug\net8.0\05.PartOfASCIITable-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\obj\Debug\net8.0\05.PartOfASCIITable-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\obj\Debug\net8.0\05.PartOfASCIITable-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\obj\Debug\net8.0\refint\05.PartOfASCIITable-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\obj\Debug\net8.0\05.PartOfASCIITable-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\obj\Debug\net8.0\05.PartOfASCIITable-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.PartOfASCIITable-exercise\obj\Debug\net8.0\ref\05.PartOfASCIITable-exercise.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\bin\Debug\net8.0\05.DecryptMessage-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\bin\Debug\net8.0\05.DecryptMessage-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\bin\Debug\net8.0\05.DecryptMessage-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\bin\Debug\net8.0\05.DecryptMessage-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\bin\Debug\net8.0\05.DecryptMessage-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\obj\Debug\net8.0\05.DecryptMessage-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\obj\Debug\net8.0\05.DecryptMessage-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\obj\Debug\net8.0\05.DecryptMessage-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\obj\Debug\net8.0\05.DecryptMessage-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\obj\Debug\net8.0\05.DecryptMessage-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\obj\Debug\net8.0\refint\05.DecryptMessage-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\obj\Debug\net8.0\05.DecryptMessage-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\obj\Debug\net8.0\05.DecryptMessage-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\05.DecryptMessage-MoreExercise\obj\Debug\net8.0\ref\05.DecryptMessage-MoreExercise.dll
