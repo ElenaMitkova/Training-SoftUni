@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\bin\Debug\net8.0\11.Snowballs-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\bin\Debug\net8.0\11.Snowballs-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\bin\Debug\net8.0\11.Snowballs-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\bin\Debug\net8.0\11.Snowballs-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\bin\Debug\net8.0\11.Snowballs-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\obj\Debug\net8.0\11.Snowballs-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\obj\Debug\net8.0\11.Snowballs-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\obj\Debug\net8.0\11.Snowballs-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\obj\Debug\net8.0\11.Snowballs-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\obj\Debug\net8.0\11.Snowballs-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\obj\Debug\net8.0\refint\11.Snowballs-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\obj\Debug\net8.0\11.Snowballs-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\obj\Debug\net8.0\11.Snowballs-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\11.Snowballs-exercise\obj\Debug\net8.0\ref\11.Snowballs-exercise.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\bin\Debug\net8.0\10.PokeMon-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\bin\Debug\net8.0\10.PokeMon-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\bin\Debug\net8.0\10.PokeMon-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\bin\Debug\net8.0\10.PokeMon-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\bin\Debug\net8.0\10.PokeMon-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\obj\Debug\net8.0\10.PokeMon-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\obj\Debug\net8.0\10.PokeMon-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\obj\Debug\net8.0\10.PokeMon-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\obj\Debug\net8.0\10.PokeMon-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\obj\Debug\net8.0\10.PokeMon-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\obj\Debug\net8.0\refint\10.PokeMon-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\obj\Debug\net8.0\10.PokeMon-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\obj\Debug\net8.0\10.PokeMon-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.PokeMon-exercise\obj\Debug\net8.0\ref\10.PokeMon-exercise.dll

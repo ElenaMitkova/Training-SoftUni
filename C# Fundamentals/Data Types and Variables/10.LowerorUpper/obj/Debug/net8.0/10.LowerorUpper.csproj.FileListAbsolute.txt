@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\bin\Debug\net8.0\10.LowerorUpper.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\bin\Debug\net8.0\10.LowerorUpper.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\bin\Debug\net8.0\10.LowerorUpper.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\bin\Debug\net8.0\10.LowerorUpper.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\bin\Debug\net8.0\10.LowerorUpper.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\obj\Debug\net8.0\10.LowerorUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\obj\Debug\net8.0\10.LowerorUpper.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\obj\Debug\net8.0\10.LowerorUpper.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\obj\Debug\net8.0\10.LowerorUpper.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\obj\Debug\net8.0\10.LowerorUpper.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\obj\Debug\net8.0\refint\10.LowerorUpper.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\obj\Debug\net8.0\10.LowerorUpper.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\obj\Debug\net8.0\10.LowerorUpper.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\10.LowerorUpper\obj\Debug\net8.0\ref\10.LowerorUpper.dll
