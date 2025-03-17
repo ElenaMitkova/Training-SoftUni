@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\bin\Debug\net8.0\11. ArrayManipulator-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\bin\Debug\net8.0\11. ArrayManipulator-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\bin\Debug\net8.0\11. ArrayManipulator-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\bin\Debug\net8.0\11. ArrayManipulator-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\bin\Debug\net8.0\11. ArrayManipulator-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\obj\Debug\net8.0\11. ArrayManipulator-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\obj\Debug\net8.0\11. ArrayManipulator-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\obj\Debug\net8.0\11. ArrayManipulator-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\obj\Debug\net8.0\11. ArrayManipulator-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\obj\Debug\net8.0\11. ArrayManipulator-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\obj\Debug\net8.0\refint\11. ArrayManipulator-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\obj\Debug\net8.0\11. ArrayManipulator-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\obj\Debug\net8.0\11. ArrayManipulator-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11. ArrayManipulator-Exercise\obj\Debug\net8.0\ref\11. ArrayManipulator-Exercise.dll

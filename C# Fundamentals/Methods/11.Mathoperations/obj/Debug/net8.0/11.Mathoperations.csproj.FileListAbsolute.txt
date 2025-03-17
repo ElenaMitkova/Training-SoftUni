@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\bin\Debug\net8.0\11.Mathoperations.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\bin\Debug\net8.0\11.Mathoperations.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\bin\Debug\net8.0\11.Mathoperations.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\bin\Debug\net8.0\11.Mathoperations.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\bin\Debug\net8.0\11.Mathoperations.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\obj\Debug\net8.0\11.Mathoperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\obj\Debug\net8.0\11.Mathoperations.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\obj\Debug\net8.0\11.Mathoperations.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\obj\Debug\net8.0\11.Mathoperations.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\obj\Debug\net8.0\11.Mathoperations.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\obj\Debug\net8.0\refint\11.Mathoperations.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\obj\Debug\net8.0\11.Mathoperations.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\obj\Debug\net8.0\11.Mathoperations.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\11.Mathoperations\obj\Debug\net8.0\ref\11.Mathoperations.dll
