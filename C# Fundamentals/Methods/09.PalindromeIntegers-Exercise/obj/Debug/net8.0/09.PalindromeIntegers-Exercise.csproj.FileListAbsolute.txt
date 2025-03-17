@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\bin\Debug\net8.0\09.PalindromeIntegers-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\bin\Debug\net8.0\09.PalindromeIntegers-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\bin\Debug\net8.0\09.PalindromeIntegers-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\bin\Debug\net8.0\09.PalindromeIntegers-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\bin\Debug\net8.0\09.PalindromeIntegers-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\obj\Debug\net8.0\09.PalindromeIntegers-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\obj\Debug\net8.0\09.PalindromeIntegers-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\obj\Debug\net8.0\09.PalindromeIntegers-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\obj\Debug\net8.0\09.PalindromeIntegers-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\obj\Debug\net8.0\09.PalindromeIntegers-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\obj\Debug\net8.0\refint\09.PalindromeIntegers-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\obj\Debug\net8.0\09.PalindromeIntegers-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\obj\Debug\net8.0\09.PalindromeIntegers-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.PalindromeIntegers-Exercise\obj\Debug\net8.0\ref\09.PalindromeIntegers-Exercise.dll

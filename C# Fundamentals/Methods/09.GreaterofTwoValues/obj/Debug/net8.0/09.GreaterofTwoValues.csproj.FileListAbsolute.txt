@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\bin\Debug\net8.0\09.GreaterofTwoValues.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\bin\Debug\net8.0\09.GreaterofTwoValues.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\bin\Debug\net8.0\09.GreaterofTwoValues.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\bin\Debug\net8.0\09.GreaterofTwoValues.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\bin\Debug\net8.0\09.GreaterofTwoValues.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\obj\Debug\net8.0\09.GreaterofTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\obj\Debug\net8.0\09.GreaterofTwoValues.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\obj\Debug\net8.0\09.GreaterofTwoValues.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\obj\Debug\net8.0\09.GreaterofTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\obj\Debug\net8.0\09.GreaterofTwoValues.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\obj\Debug\net8.0\refint\09.GreaterofTwoValues.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\obj\Debug\net8.0\09.GreaterofTwoValues.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\obj\Debug\net8.0\09.GreaterofTwoValues.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\09.GreaterofTwoValues\obj\Debug\net8.0\ref\09.GreaterofTwoValues.dll
