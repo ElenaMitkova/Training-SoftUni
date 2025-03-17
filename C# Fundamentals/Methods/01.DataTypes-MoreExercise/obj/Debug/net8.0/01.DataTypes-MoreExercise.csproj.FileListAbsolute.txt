@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\bin\Debug\net8.0\01.DataTypes-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\bin\Debug\net8.0\01.DataTypes-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\bin\Debug\net8.0\01.DataTypes-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\bin\Debug\net8.0\01.DataTypes-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\bin\Debug\net8.0\01.DataTypes-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\obj\Debug\net8.0\01.DataTypes-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\obj\Debug\net8.0\01.DataTypes-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\obj\Debug\net8.0\01.DataTypes-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\obj\Debug\net8.0\01.DataTypes-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\obj\Debug\net8.0\01.DataTypes-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\obj\Debug\net8.0\refint\01.DataTypes-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\obj\Debug\net8.0\01.DataTypes-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\obj\Debug\net8.0\01.DataTypes-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.DataTypes-MoreExercise\obj\Debug\net8.0\ref\01.DataTypes-MoreExercise.dll

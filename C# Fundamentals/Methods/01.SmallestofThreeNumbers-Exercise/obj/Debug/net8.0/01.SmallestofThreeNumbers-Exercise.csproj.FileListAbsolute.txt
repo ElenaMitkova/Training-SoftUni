@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\bin\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\bin\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\bin\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\bin\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\bin\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\obj\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\obj\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\obj\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\obj\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\obj\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\obj\Debug\net8.0\refint\01.SmallestofThreeNumbers-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\obj\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\obj\Debug\net8.0\01.SmallestofThreeNumbers-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\01.SmallestofThreeNumbers-Exercise\obj\Debug\net8.0\ref\01.SmallestofThreeNumbers-Exercise.dll
