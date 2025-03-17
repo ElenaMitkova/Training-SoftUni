@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\bin\Debug\net8.0\10.RageExpenses-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\bin\Debug\net8.0\10.RageExpenses-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\bin\Debug\net8.0\10.RageExpenses-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\bin\Debug\net8.0\10.RageExpenses-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\bin\Debug\net8.0\10.RageExpenses-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\obj\Debug\net8.0\10.RageExpenses-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\obj\Debug\net8.0\10.RageExpenses-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\obj\Debug\net8.0\10.RageExpenses-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\obj\Debug\net8.0\10.RageExpenses-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\obj\Debug\net8.0\10.RageExpenses-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\obj\Debug\net8.0\refint\10.RageExpenses-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\obj\Debug\net8.0\10.RageExpenses-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\obj\Debug\net8.0\10.RageExpenses-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\10.RageExpenses-exercise\obj\Debug\net8.0\ref\10.RageExpenses-exercise.dll
