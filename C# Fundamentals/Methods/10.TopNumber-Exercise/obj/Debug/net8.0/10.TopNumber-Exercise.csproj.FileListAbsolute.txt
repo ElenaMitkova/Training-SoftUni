@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\bin\Debug\net8.0\10.TopNumber-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\bin\Debug\net8.0\10.TopNumber-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\bin\Debug\net8.0\10.TopNumber-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\bin\Debug\net8.0\10.TopNumber-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\bin\Debug\net8.0\10.TopNumber-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\obj\Debug\net8.0\10.TopNumber-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\obj\Debug\net8.0\10.TopNumber-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\obj\Debug\net8.0\10.TopNumber-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\obj\Debug\net8.0\10.TopNumber-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\obj\Debug\net8.0\10.TopNumber-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\obj\Debug\net8.0\refint\10.TopNumber-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\obj\Debug\net8.0\10.TopNumber-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\obj\Debug\net8.0\10.TopNumber-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\10.TopNumber-Exercise\obj\Debug\net8.0\ref\10.TopNumber-Exercise.dll
