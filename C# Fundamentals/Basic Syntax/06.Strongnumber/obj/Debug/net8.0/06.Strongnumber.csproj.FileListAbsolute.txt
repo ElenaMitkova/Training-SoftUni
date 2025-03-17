@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\bin\Debug\net8.0\06.Strongnumber.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\bin\Debug\net8.0\06.Strongnumber.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\bin\Debug\net8.0\06.Strongnumber.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\bin\Debug\net8.0\06.Strongnumber.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\bin\Debug\net8.0\06.Strongnumber.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\obj\Debug\net8.0\06.Strongnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\obj\Debug\net8.0\06.Strongnumber.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\obj\Debug\net8.0\06.Strongnumber.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\obj\Debug\net8.0\06.Strongnumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\obj\Debug\net8.0\06.Strongnumber.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\obj\Debug\net8.0\refint\06.Strongnumber.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\obj\Debug\net8.0\06.Strongnumber.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\obj\Debug\net8.0\06.Strongnumber.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\06.Strongnumber\obj\Debug\net8.0\ref\06.Strongnumber.dll
