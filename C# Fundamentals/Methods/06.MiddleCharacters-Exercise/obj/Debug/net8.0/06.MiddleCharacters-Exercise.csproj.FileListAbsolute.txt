@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\bin\Debug\net8.0\06.MiddleCharacters-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\bin\Debug\net8.0\06.MiddleCharacters-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\bin\Debug\net8.0\06.MiddleCharacters-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\bin\Debug\net8.0\06.MiddleCharacters-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\bin\Debug\net8.0\06.MiddleCharacters-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\obj\Debug\net8.0\06.MiddleCharacters-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\obj\Debug\net8.0\06.MiddleCharacters-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\obj\Debug\net8.0\06.MiddleCharacters-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\obj\Debug\net8.0\06.MiddleCharacters-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\obj\Debug\net8.0\06.MiddleCharacters-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\obj\Debug\net8.0\refint\06.MiddleCharacters-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\obj\Debug\net8.0\06.MiddleCharacters-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\obj\Debug\net8.0\06.MiddleCharacters-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\06.MiddleCharacters-Exercise\obj\Debug\net8.0\ref\06.MiddleCharacters-Exercise.dll
