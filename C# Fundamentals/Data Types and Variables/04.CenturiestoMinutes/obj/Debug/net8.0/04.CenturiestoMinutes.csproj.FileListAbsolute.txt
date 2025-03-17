@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\bin\Debug\net8.0\04.CenturiestoMinutes.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\bin\Debug\net8.0\04.CenturiestoMinutes.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\bin\Debug\net8.0\04.CenturiestoMinutes.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\bin\Debug\net8.0\04.CenturiestoMinutes.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\bin\Debug\net8.0\04.CenturiestoMinutes.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\obj\Debug\net8.0\04.CenturiestoMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\obj\Debug\net8.0\04.CenturiestoMinutes.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\obj\Debug\net8.0\04.CenturiestoMinutes.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\obj\Debug\net8.0\04.CenturiestoMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\obj\Debug\net8.0\04.CenturiestoMinutes.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\obj\Debug\net8.0\refint\04.CenturiestoMinutes.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\obj\Debug\net8.0\04.CenturiestoMinutes.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\obj\Debug\net8.0\04.CenturiestoMinutes.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.CenturiestoMinutes\obj\Debug\net8.0\ref\04.CenturiestoMinutes.dll

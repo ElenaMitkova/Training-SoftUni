@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\bin\Debug\net8.0\04.SumofChars-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\bin\Debug\net8.0\04.SumofChars-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\bin\Debug\net8.0\04.SumofChars-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\bin\Debug\net8.0\04.SumofChars-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\bin\Debug\net8.0\04.SumofChars-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\obj\Debug\net8.0\04.SumofChars-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\obj\Debug\net8.0\04.SumofChars-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\obj\Debug\net8.0\04.SumofChars-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\obj\Debug\net8.0\04.SumofChars-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\obj\Debug\net8.0\04.SumofChars-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\obj\Debug\net8.0\refint\04.SumofChars-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\obj\Debug\net8.0\04.SumofChars-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\obj\Debug\net8.0\04.SumofChars-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\04.SumofChars-exercise\obj\Debug\net8.0\ref\04.SumofChars-exercise.dll
