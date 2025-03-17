@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\bin\Debug\net8.0\03.GamingStore-MoreExercises.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\bin\Debug\net8.0\03.GamingStore-MoreExercises.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\bin\Debug\net8.0\03.GamingStore-MoreExercises.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\bin\Debug\net8.0\03.GamingStore-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\bin\Debug\net8.0\03.GamingStore-MoreExercises.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\obj\Debug\net8.0\03.GamingStore-MoreExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\obj\Debug\net8.0\03.GamingStore-MoreExercises.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\obj\Debug\net8.0\03.GamingStore-MoreExercises.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\obj\Debug\net8.0\03.GamingStore-MoreExercises.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\obj\Debug\net8.0\03.GamingStore-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\obj\Debug\net8.0\refint\03.GamingStore-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\obj\Debug\net8.0\03.GamingStore-MoreExercises.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\obj\Debug\net8.0\03.GamingStore-MoreExercises.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\03.GamingStore-MoreExercises\obj\Debug\net8.0\ref\03.GamingStore-MoreExercises.dll
