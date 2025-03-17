@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\bin\Debug\net8.0\09.KaminoFactory-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\bin\Debug\net8.0\09.KaminoFactory-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\bin\Debug\net8.0\09.KaminoFactory-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\bin\Debug\net8.0\09.KaminoFactory-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\bin\Debug\net8.0\09.KaminoFactory-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\obj\Debug\net8.0\09.KaminoFactory-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\obj\Debug\net8.0\09.KaminoFactory-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\obj\Debug\net8.0\09.KaminoFactory-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\obj\Debug\net8.0\09.KaminoFactory-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\obj\Debug\net8.0\09.KaminoFactory-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\obj\Debug\net8.0\refint\09.KaminoFactory-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\obj\Debug\net8.0\09.KaminoFactory-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\obj\Debug\net8.0\09.KaminoFactory-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\09.KaminoFactory-exercise\obj\Debug\net8.0\ref\09.KaminoFactory-exercise.dll
