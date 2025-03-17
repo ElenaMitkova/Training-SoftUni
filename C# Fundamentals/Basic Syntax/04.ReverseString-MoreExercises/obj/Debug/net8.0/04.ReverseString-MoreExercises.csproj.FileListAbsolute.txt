@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\bin\Debug\net8.0\04.ReverseString-MoreExercises.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\bin\Debug\net8.0\04.ReverseString-MoreExercises.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\bin\Debug\net8.0\04.ReverseString-MoreExercises.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\bin\Debug\net8.0\04.ReverseString-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\bin\Debug\net8.0\04.ReverseString-MoreExercises.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\obj\Debug\net8.0\04.ReverseString-MoreExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\obj\Debug\net8.0\04.ReverseString-MoreExercises.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\obj\Debug\net8.0\04.ReverseString-MoreExercises.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\obj\Debug\net8.0\04.ReverseString-MoreExercises.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\obj\Debug\net8.0\04.ReverseString-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\obj\Debug\net8.0\refint\04.ReverseString-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\obj\Debug\net8.0\04.ReverseString-MoreExercises.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\obj\Debug\net8.0\04.ReverseString-MoreExercises.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.ReverseString-MoreExercises\obj\Debug\net8.0\ref\04.ReverseString-MoreExercises.dll

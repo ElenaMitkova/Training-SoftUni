@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\bin\Debug\net8.0\04.Printandsum.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\bin\Debug\net8.0\04.Printandsum.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\bin\Debug\net8.0\04.Printandsum.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\bin\Debug\net8.0\04.Printandsum.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\bin\Debug\net8.0\04.Printandsum.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\obj\Debug\net8.0\04.Printandsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\obj\Debug\net8.0\04.Printandsum.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\obj\Debug\net8.0\04.Printandsum.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\obj\Debug\net8.0\04.Printandsum.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\obj\Debug\net8.0\04.Printandsum.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\obj\Debug\net8.0\refint\04.Printandsum.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\obj\Debug\net8.0\04.Printandsum.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\obj\Debug\net8.0\04.Printandsum.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\04.Printandsum\obj\Debug\net8.0\ref\04.Printandsum.dll
