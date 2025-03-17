@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\bin\Debug\net8.0\05.Messages-MoreExercises.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\bin\Debug\net8.0\05.Messages-MoreExercises.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\bin\Debug\net8.0\05.Messages-MoreExercises.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\bin\Debug\net8.0\05.Messages-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\bin\Debug\net8.0\05.Messages-MoreExercises.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\obj\Debug\net8.0\05.Messages-MoreExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\obj\Debug\net8.0\05.Messages-MoreExercises.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\obj\Debug\net8.0\05.Messages-MoreExercises.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\obj\Debug\net8.0\05.Messages-MoreExercises.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\obj\Debug\net8.0\05.Messages-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\obj\Debug\net8.0\refint\05.Messages-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\obj\Debug\net8.0\05.Messages-MoreExercises.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\obj\Debug\net8.0\05.Messages-MoreExercises.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\05.Messages-MoreExercises\obj\Debug\net8.0\ref\05.Messages-MoreExercises.dll
