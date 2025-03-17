@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\bin\Debug\net8.0\04.ArrayRotation-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\bin\Debug\net8.0\04.ArrayRotation-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\bin\Debug\net8.0\04.ArrayRotation-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\bin\Debug\net8.0\04.ArrayRotation-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\bin\Debug\net8.0\04.ArrayRotation-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\obj\Debug\net8.0\04.ArrayRotation-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\obj\Debug\net8.0\04.ArrayRotation-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\obj\Debug\net8.0\04.ArrayRotation-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\obj\Debug\net8.0\04.ArrayRotation-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\obj\Debug\net8.0\04.ArrayRotation-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\obj\Debug\net8.0\refint\04.ArrayRotation-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\obj\Debug\net8.0\04.ArrayRotation-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\obj\Debug\net8.0\04.ArrayRotation-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ArrayRotation-exercise\obj\Debug\net8.0\ref\04.ArrayRotation-exercise.dll

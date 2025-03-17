@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\refint\04.ReverseArrayofStrings.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\ref\04.ReverseArrayofStrings.dll
