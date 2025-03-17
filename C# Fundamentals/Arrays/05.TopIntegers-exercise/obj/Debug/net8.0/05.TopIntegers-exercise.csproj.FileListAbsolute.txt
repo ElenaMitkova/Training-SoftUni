@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\bin\Debug\net8.0\05.TopIntegers-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\bin\Debug\net8.0\05.TopIntegers-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\bin\Debug\net8.0\05.TopIntegers-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\bin\Debug\net8.0\05.TopIntegers-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\bin\Debug\net8.0\05.TopIntegers-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\obj\Debug\net8.0\05.TopIntegers-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\obj\Debug\net8.0\05.TopIntegers-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\obj\Debug\net8.0\05.TopIntegers-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\obj\Debug\net8.0\05.TopIntegers-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\obj\Debug\net8.0\05.TopIntegers-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\obj\Debug\net8.0\refint\05.TopIntegers-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\obj\Debug\net8.0\05.TopIntegers-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\obj\Debug\net8.0\05.TopIntegers-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\05.TopIntegers-exercise\obj\Debug\net8.0\ref\05.TopIntegers-exercise.dll
