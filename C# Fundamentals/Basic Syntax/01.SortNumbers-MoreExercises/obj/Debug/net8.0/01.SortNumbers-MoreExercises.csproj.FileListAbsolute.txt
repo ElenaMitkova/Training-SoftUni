@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\bin\Debug\net8.0\01.SortNumbers-MoreExercises.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\bin\Debug\net8.0\01.SortNumbers-MoreExercises.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\bin\Debug\net8.0\01.SortNumbers-MoreExercises.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\bin\Debug\net8.0\01.SortNumbers-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\bin\Debug\net8.0\01.SortNumbers-MoreExercises.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\obj\Debug\net8.0\01.SortNumbers-MoreExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\obj\Debug\net8.0\01.SortNumbers-MoreExercises.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\obj\Debug\net8.0\01.SortNumbers-MoreExercises.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\obj\Debug\net8.0\01.SortNumbers-MoreExercises.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\obj\Debug\net8.0\01.SortNumbers-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\obj\Debug\net8.0\refint\01.SortNumbers-MoreExercises.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\obj\Debug\net8.0\01.SortNumbers-MoreExercises.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\obj\Debug\net8.0\01.SortNumbers-MoreExercises.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-BasicSyntax\01.SortNumbers-MoreExercises\obj\Debug\net8.0\ref\01.SortNumbers-MoreExercises.dll
