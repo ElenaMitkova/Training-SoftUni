@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\obj\Debug\net8.0\07.NxNMatrix-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\obj\Debug\net8.0\07.NxNMatrix-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\obj\Debug\net8.0\07.NxNMatrix-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\obj\Debug\net8.0\07.NxNMatrix-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\bin\Debug\net8.0\07.NxNMatrix-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\bin\Debug\net8.0\07.NxNMatrix-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\bin\Debug\net8.0\07.NxNMatrix-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\bin\Debug\net8.0\07.NxNMatrix-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\bin\Debug\net8.0\07.NxNMatrix-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\obj\Debug\net8.0\07.NxNMatrix-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\obj\Debug\net8.0\refint\07.NxNMatrix-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\obj\Debug\net8.0\07.NxNMatrix-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\obj\Debug\net8.0\07.NxNMatrix-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\07.NxNMatrix-Exercise\obj\Debug\net8.0\ref\07.NxNMatrix-Exercise.dll
