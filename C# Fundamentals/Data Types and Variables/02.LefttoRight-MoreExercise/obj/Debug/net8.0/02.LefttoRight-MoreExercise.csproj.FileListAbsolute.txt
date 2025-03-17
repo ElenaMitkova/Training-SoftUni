@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\bin\Debug\net8.0\02.LefttoRight-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\bin\Debug\net8.0\02.LefttoRight-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\bin\Debug\net8.0\02.LefttoRight-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\bin\Debug\net8.0\02.LefttoRight-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\bin\Debug\net8.0\02.LefttoRight-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\obj\Debug\net8.0\02.LefttoRight-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\obj\Debug\net8.0\02.LefttoRight-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\obj\Debug\net8.0\02.LefttoRight-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\obj\Debug\net8.0\02.LefttoRight-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\obj\Debug\net8.0\02.LefttoRight-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\obj\Debug\net8.0\refint\02.LefttoRight-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\obj\Debug\net8.0\02.LefttoRight-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\obj\Debug\net8.0\02.LefttoRight-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.LefttoRight-MoreExercise\obj\Debug\net8.0\ref\02.LefttoRight-MoreExercise.dll

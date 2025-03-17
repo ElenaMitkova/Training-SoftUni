@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\bin\Debug\net8.0\02.PoundstoDollars.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\bin\Debug\net8.0\02.PoundstoDollars.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\bin\Debug\net8.0\02.PoundstoDollars.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\bin\Debug\net8.0\02.PoundstoDollars.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\bin\Debug\net8.0\02.PoundstoDollars.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\obj\Debug\net8.0\02.PoundstoDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\obj\Debug\net8.0\02.PoundstoDollars.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\obj\Debug\net8.0\02.PoundstoDollars.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\obj\Debug\net8.0\02.PoundstoDollars.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\obj\Debug\net8.0\02.PoundstoDollars.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\obj\Debug\net8.0\refint\02.PoundstoDollars.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\obj\Debug\net8.0\02.PoundstoDollars.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\obj\Debug\net8.0\02.PoundstoDollars.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.PoundstoDollars\obj\Debug\net8.0\ref\02.PoundstoDollars.dll

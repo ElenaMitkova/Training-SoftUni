@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\bin\Debug\net8.0\02.SumDigits-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\bin\Debug\net8.0\02.SumDigits-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\bin\Debug\net8.0\02.SumDigits-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\bin\Debug\net8.0\02.SumDigits-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\bin\Debug\net8.0\02.SumDigits-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\obj\Debug\net8.0\02.SumDigits-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\obj\Debug\net8.0\02.SumDigits-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\obj\Debug\net8.0\02.SumDigits-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\obj\Debug\net8.0\02.SumDigits-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\obj\Debug\net8.0\02.SumDigits-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\obj\Debug\net8.0\refint\02.SumDigits-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\obj\Debug\net8.0\02.SumDigits-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\obj\Debug\net8.0\02.SumDigits-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DataTypesAndVariables\02.SumDigits-exercise\obj\Debug\net8.0\ref\02.SumDigits-exercise.dll
