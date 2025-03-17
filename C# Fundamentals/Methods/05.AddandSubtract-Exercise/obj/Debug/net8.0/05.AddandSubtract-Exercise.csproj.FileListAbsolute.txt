@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\bin\Debug\net8.0\05.AddandSubtract-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\bin\Debug\net8.0\05.AddandSubtract-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\bin\Debug\net8.0\05.AddandSubtract-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\bin\Debug\net8.0\05.AddandSubtract-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\bin\Debug\net8.0\05.AddandSubtract-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\obj\Debug\net8.0\05.AddandSubtract-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\obj\Debug\net8.0\05.AddandSubtract-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\obj\Debug\net8.0\05.AddandSubtract-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\obj\Debug\net8.0\05.AddandSubtract-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\obj\Debug\net8.0\05.AddandSubtract-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\obj\Debug\net8.0\refint\05.AddandSubtract-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\obj\Debug\net8.0\05.AddandSubtract-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\obj\Debug\net8.0\05.AddandSubtract-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.AddandSubtract-Exercise\obj\Debug\net8.0\ref\05.AddandSubtract-Exercise.dll

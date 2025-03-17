@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\bin\Debug\net8.0\05.MultiplicationSign-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\bin\Debug\net8.0\05.MultiplicationSign-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\bin\Debug\net8.0\05.MultiplicationSign-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\bin\Debug\net8.0\05.MultiplicationSign-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\bin\Debug\net8.0\05.MultiplicationSign-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\obj\Debug\net8.0\05.MultiplicationSign-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\obj\Debug\net8.0\05.MultiplicationSign-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\obj\Debug\net8.0\05.MultiplicationSign-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\obj\Debug\net8.0\05.MultiplicationSign-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\obj\Debug\net8.0\05.MultiplicationSign-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\obj\Debug\net8.0\refint\05.MultiplicationSign-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\obj\Debug\net8.0\05.MultiplicationSign-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\obj\Debug\net8.0\05.MultiplicationSign-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Methods\05.MultiplicationSign-MoreExercise\obj\Debug\net8.0\ref\05.MultiplicationSign-MoreExercise.dll
