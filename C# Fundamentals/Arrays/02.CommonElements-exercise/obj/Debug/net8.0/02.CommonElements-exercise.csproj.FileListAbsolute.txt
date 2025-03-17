@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\bin\Debug\net8.0\02.CommonElements-exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\bin\Debug\net8.0\02.CommonElements-exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\bin\Debug\net8.0\02.CommonElements-exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\bin\Debug\net8.0\02.CommonElements-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\bin\Debug\net8.0\02.CommonElements-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\obj\Debug\net8.0\02.CommonElements-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\obj\Debug\net8.0\02.CommonElements-exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\obj\Debug\net8.0\02.CommonElements-exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\obj\Debug\net8.0\02.CommonElements-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\obj\Debug\net8.0\02.CommonElements-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\obj\Debug\net8.0\refint\02.CommonElements-exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\obj\Debug\net8.0\02.CommonElements-exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\obj\Debug\net8.0\02.CommonElements-exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.CommonElements-exercise\obj\Debug\net8.0\ref\02.CommonElements-exercise.dll

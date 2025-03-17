@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\refint\02.PrintNumbersinReverseOrder.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\ref\02.PrintNumbersinReverseOrder.dll

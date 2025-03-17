@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\bin\Debug\net8.0\02.PascalTriangle-MoreExrcise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\bin\Debug\net8.0\02.PascalTriangle-MoreExrcise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\bin\Debug\net8.0\02.PascalTriangle-MoreExrcise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\bin\Debug\net8.0\02.PascalTriangle-MoreExrcise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\bin\Debug\net8.0\02.PascalTriangle-MoreExrcise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\obj\Debug\net8.0\02.PascalTriangle-MoreExrcise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\obj\Debug\net8.0\02.PascalTriangle-MoreExrcise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\obj\Debug\net8.0\02.PascalTriangle-MoreExrcise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\obj\Debug\net8.0\02.PascalTriangle-MoreExrcise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\obj\Debug\net8.0\02.PascalTriangle-MoreExrcise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\obj\Debug\net8.0\refint\02.PascalTriangle-MoreExrcise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\obj\Debug\net8.0\02.PascalTriangle-MoreExrcise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\obj\Debug\net8.0\02.PascalTriangle-MoreExrcise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fumdamentals-Arrays\02.PascalTriangle-MoreExrcise\obj\Debug\net8.0\ref\02.PascalTriangle-MoreExrcise.dll
