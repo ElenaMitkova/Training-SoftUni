@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\bin\Debug\net8.0\07.OrderbyAge.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\bin\Debug\net8.0\07.OrderbyAge.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\bin\Debug\net8.0\07.OrderbyAge.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\bin\Debug\net8.0\07.OrderbyAge.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\bin\Debug\net8.0\07.OrderbyAge.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\obj\Debug\net8.0\07.OrderbyAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\obj\Debug\net8.0\07.OrderbyAge.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\obj\Debug\net8.0\07.OrderbyAge.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\obj\Debug\net8.0\07.OrderbyAge.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\obj\Debug\net8.0\07.OrderbyAge.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\obj\Debug\net8.0\refint\07.OrderbyAge.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\obj\Debug\net8.0\07.OrderbyAge.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\obj\Debug\net8.0\07.OrderbyAge.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.OrderbyAge\obj\Debug\net8.0\ref\07.OrderbyAge.dll

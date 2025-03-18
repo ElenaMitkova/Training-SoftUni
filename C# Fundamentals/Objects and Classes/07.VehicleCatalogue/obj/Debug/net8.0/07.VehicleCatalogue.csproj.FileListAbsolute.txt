@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net8.0\07.VehicleCatalogue.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net8.0\07.VehicleCatalogue.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net8.0\07.VehicleCatalogue.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net8.0\07.VehicleCatalogue.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\net8.0\07.VehicleCatalogue.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net8.0\07.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net8.0\07.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net8.0\07.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net8.0\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net8.0\07.VehicleCatalogue.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net8.0\refint\07.VehicleCatalogue.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net8.0\07.VehicleCatalogue.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net8.0\07.VehicleCatalogue.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\net8.0\ref\07.VehicleCatalogue.dll
