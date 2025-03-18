@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\refint\01.CompanyRoster.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\ref\01.CompanyRoster.dll
