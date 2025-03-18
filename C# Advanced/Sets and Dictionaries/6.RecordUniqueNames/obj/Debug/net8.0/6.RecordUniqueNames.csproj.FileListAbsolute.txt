@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\bin\Debug\net8.0\6.RecordUniqueNames.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\bin\Debug\net8.0\6.RecordUniqueNames.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\bin\Debug\net8.0\6.RecordUniqueNames.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\bin\Debug\net8.0\6.RecordUniqueNames.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\bin\Debug\net8.0\6.RecordUniqueNames.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\obj\Debug\net8.0\6.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\obj\Debug\net8.0\6.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\obj\Debug\net8.0\6.RecordUniqueNames.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\obj\Debug\net8.0\6.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\obj\Debug\net8.0\6.RecordUniqueNames.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\obj\Debug\net8.0\refint\6.RecordUniqueNames.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\obj\Debug\net8.0\6.RecordUniqueNames.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\obj\Debug\net8.0\6.RecordUniqueNames.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.RecordUniqueNames\obj\Debug\net8.0\ref\6.RecordUniqueNames.dll

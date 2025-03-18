@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\bin\Debug\net8.0\6.Wardrobe.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\bin\Debug\net8.0\6.Wardrobe.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\bin\Debug\net8.0\6.Wardrobe.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\bin\Debug\net8.0\6.Wardrobe.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\bin\Debug\net8.0\6.Wardrobe.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\obj\Debug\net8.0\6.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\obj\Debug\net8.0\6.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\obj\Debug\net8.0\6.Wardrobe.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\obj\Debug\net8.0\6.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\obj\Debug\net8.0\6.Wardrobe.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\obj\Debug\net8.0\refint\6.Wardrobe.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\obj\Debug\net8.0\6.Wardrobe.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\obj\Debug\net8.0\6.Wardrobe.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\6.Wardrobe\obj\Debug\net8.0\ref\6.Wardrobe.dll
