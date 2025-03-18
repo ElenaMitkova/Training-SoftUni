@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\bin\Debug\net8.0\7.KnightGame.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\bin\Debug\net8.0\7.KnightGame.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\bin\Debug\net8.0\7.KnightGame.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\bin\Debug\net8.0\7.KnightGame.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\bin\Debug\net8.0\7.KnightGame.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\obj\Debug\net8.0\7.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\obj\Debug\net8.0\7.KnightGame.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\obj\Debug\net8.0\7.KnightGame.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\obj\Debug\net8.0\7.KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\obj\Debug\net8.0\7.KnightGame.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\obj\Debug\net8.0\refint\7.KnightGame.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\obj\Debug\net8.0\7.KnightGame.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\obj\Debug\net8.0\7.KnightGame.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\7.KnightGame\obj\Debug\net8.0\ref\7.KnightGame.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\refint\6.JaggedArrayManipulator.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\ref\6.JaggedArrayManipulator.dll
