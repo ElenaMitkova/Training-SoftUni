@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\obj\Debug\net8.0\refint\02.ShoppingList.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-MidExamPreparation1\02.ShoppingList\obj\Debug\net8.0\ref\02.ShoppingList.dll
