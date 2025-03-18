@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net8.0\3.Largest3Numbers.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net8.0\3.Largest3Numbers.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net8.0\3.Largest3Numbers.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net8.0\3.Largest3Numbers.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\bin\Debug\net8.0\3.Largest3Numbers.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net8.0\3.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net8.0\3.Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net8.0\3.Largest3Numbers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net8.0\3.Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net8.0\3.Largest3Numbers.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net8.0\refint\3.Largest3Numbers.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net8.0\3.Largest3Numbers.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net8.0\3.Largest3Numbers.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\03.Largest3Numbers\obj\Debug\net8.0\ref\3.Largest3Numbers.dll

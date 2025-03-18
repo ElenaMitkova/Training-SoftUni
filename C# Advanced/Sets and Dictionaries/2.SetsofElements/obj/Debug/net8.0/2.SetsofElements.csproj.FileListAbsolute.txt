@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\bin\Debug\net8.0\2.SetsofElements.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\bin\Debug\net8.0\2.SetsofElements.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\bin\Debug\net8.0\2.SetsofElements.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\bin\Debug\net8.0\2.SetsofElements.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\bin\Debug\net8.0\2.SetsofElements.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\obj\Debug\net8.0\2.SetsofElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\obj\Debug\net8.0\2.SetsofElements.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\obj\Debug\net8.0\2.SetsofElements.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\obj\Debug\net8.0\2.SetsofElements.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\obj\Debug\net8.0\2.SetsofElements.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\obj\Debug\net8.0\refint\2.SetsofElements.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\obj\Debug\net8.0\2.SetsofElements.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\obj\Debug\net8.0\2.SetsofElements.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\2.SetsofElements\obj\Debug\net8.0\ref\2.SetsofElements.dll

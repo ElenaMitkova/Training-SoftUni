@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\bin\Debug\net8.0\3.PeriodicTable.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\bin\Debug\net8.0\3.PeriodicTable.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\bin\Debug\net8.0\3.PeriodicTable.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\bin\Debug\net8.0\3.PeriodicTable.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\bin\Debug\net8.0\3.PeriodicTable.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\obj\Debug\net8.0\3.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\obj\Debug\net8.0\3.PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\obj\Debug\net8.0\3.PeriodicTable.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\obj\Debug\net8.0\3.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\obj\Debug\net8.0\3.PeriodicTable.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\obj\Debug\net8.0\refint\3.PeriodicTable.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\obj\Debug\net8.0\3.PeriodicTable.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\obj\Debug\net8.0\3.PeriodicTable.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\3.PeriodicTable\obj\Debug\net8.0\ref\3.PeriodicTable.dll
