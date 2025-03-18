@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\bin\Debug\net8.0\1.CountSameValuesinArray.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\bin\Debug\net8.0\1.CountSameValuesinArray.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\bin\Debug\net8.0\1.CountSameValuesinArray.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\bin\Debug\net8.0\1.CountSameValuesinArray.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\bin\Debug\net8.0\1.CountSameValuesinArray.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\obj\Debug\net8.0\1.CountSameValuesinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\obj\Debug\net8.0\1.CountSameValuesinArray.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\obj\Debug\net8.0\1.CountSameValuesinArray.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\obj\Debug\net8.0\1.CountSameValuesinArray.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\obj\Debug\net8.0\1.CountSameValuesinArray.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\obj\Debug\net8.0\refint\1.CountSameValuesinArray.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\obj\Debug\net8.0\1.CountSameValuesinArray.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\obj\Debug\net8.0\1.CountSameValuesinArray.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.CountSameValuesinArray\obj\Debug\net8.0\ref\1.CountSameValuesinArray.dll

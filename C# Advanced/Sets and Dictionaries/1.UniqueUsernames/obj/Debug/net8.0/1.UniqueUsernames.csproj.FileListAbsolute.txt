@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\bin\Debug\net8.0\1.UniqueUsernames.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\bin\Debug\net8.0\1.UniqueUsernames.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\bin\Debug\net8.0\1.UniqueUsernames.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\bin\Debug\net8.0\1.UniqueUsernames.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\bin\Debug\net8.0\1.UniqueUsernames.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\obj\Debug\net8.0\1.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\obj\Debug\net8.0\1.UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\obj\Debug\net8.0\1.UniqueUsernames.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\obj\Debug\net8.0\1.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\obj\Debug\net8.0\1.UniqueUsernames.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\obj\Debug\net8.0\refint\1.UniqueUsernames.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\obj\Debug\net8.0\1.UniqueUsernames.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\obj\Debug\net8.0\1.UniqueUsernames.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\1.UniqueUsernames\obj\Debug\net8.0\ref\1.UniqueUsernames.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net8.0\2.AverageStudentGrades.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net8.0\2.AverageStudentGrades.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net8.0\2.AverageStudentGrades.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net8.0\2.AverageStudentGrades.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\net8.0\2.AverageStudentGrades.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net8.0\2.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net8.0\2.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net8.0\2.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net8.0\2.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net8.0\2.AverageStudentGrades.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net8.0\refint\2.AverageStudentGrades.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net8.0\2.AverageStudentGrades.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net8.0\2.AverageStudentGrades.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\net8.0\ref\2.AverageStudentGrades.dll
