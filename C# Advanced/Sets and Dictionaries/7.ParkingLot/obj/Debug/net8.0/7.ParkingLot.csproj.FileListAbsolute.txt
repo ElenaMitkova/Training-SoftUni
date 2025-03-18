@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\bin\Debug\net8.0\7.ParkingLot.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\bin\Debug\net8.0\7.ParkingLot.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\bin\Debug\net8.0\7.ParkingLot.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\bin\Debug\net8.0\7.ParkingLot.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\bin\Debug\net8.0\7.ParkingLot.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\obj\Debug\net8.0\7.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\obj\Debug\net8.0\7.ParkingLot.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\obj\Debug\net8.0\7.ParkingLot.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\obj\Debug\net8.0\7.ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\obj\Debug\net8.0\7.ParkingLot.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\obj\Debug\net8.0\refint\7.ParkingLot.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\obj\Debug\net8.0\7.ParkingLot.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\obj\Debug\net8.0\7.ParkingLot.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.ParkingLot\obj\Debug\net8.0\ref\7.ParkingLot.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\bin\Debug\net8.0\7.TheV-Logger.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\bin\Debug\net8.0\7.TheV-Logger.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\bin\Debug\net8.0\7.TheV-Logger.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\bin\Debug\net8.0\7.TheV-Logger.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\bin\Debug\net8.0\7.TheV-Logger.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\obj\Debug\net8.0\7.TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\obj\Debug\net8.0\7.TheV-Logger.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\obj\Debug\net8.0\7.TheV-Logger.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\obj\Debug\net8.0\7.TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\obj\Debug\net8.0\7.TheV-Logger.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\obj\Debug\net8.0\refint\7.TheV-Logger.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\obj\Debug\net8.0\7.TheV-Logger.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\obj\Debug\net8.0\7.TheV-Logger.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\7.TheV-Logger\obj\Debug\net8.0\ref\7.TheV-Logger.dll
