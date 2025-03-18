@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\bin\Debug\net8.0\03.Songs.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\bin\Debug\net8.0\03.Songs.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\bin\Debug\net8.0\03.Songs.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\bin\Debug\net8.0\03.Songs.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\bin\Debug\net8.0\03.Songs.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\obj\Debug\net8.0\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\obj\Debug\net8.0\03.Songs.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\obj\Debug\net8.0\03.Songs.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\obj\Debug\net8.0\03.Songs.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\obj\Debug\net8.0\03.Songs.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\obj\Debug\net8.0\refint\03.Songs.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\obj\Debug\net8.0\03.Songs.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\obj\Debug\net8.0\03.Songs.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.Songs\obj\Debug\net8.0\ref\03.Songs.dll

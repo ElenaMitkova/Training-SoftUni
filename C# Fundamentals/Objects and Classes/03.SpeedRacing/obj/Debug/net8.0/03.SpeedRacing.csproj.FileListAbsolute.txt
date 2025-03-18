@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\refint\03.SpeedRacing.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\ref\03.SpeedRacing.dll
