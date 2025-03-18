@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\bin\Debug\net8.0\04.ListofProducts.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\bin\Debug\net8.0\04.ListofProducts.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\bin\Debug\net8.0\04.ListofProducts.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\bin\Debug\net8.0\04.ListofProducts.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\bin\Debug\net8.0\04.ListofProducts.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\obj\Debug\net8.0\04.ListofProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\obj\Debug\net8.0\04.ListofProducts.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\obj\Debug\net8.0\04.ListofProducts.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\obj\Debug\net8.0\04.ListofProducts.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\obj\Debug\net8.0\04.ListofProducts.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\obj\Debug\net8.0\refint\04.ListofProducts.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\obj\Debug\net8.0\04.ListofProducts.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\obj\Debug\net8.0\04.ListofProducts.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.ListofProducts\obj\Debug\net8.0\ref\04.ListofProducts.dll

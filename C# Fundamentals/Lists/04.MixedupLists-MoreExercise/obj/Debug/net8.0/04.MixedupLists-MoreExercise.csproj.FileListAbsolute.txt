@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\bin\Debug\net8.0\04.MixedupLists-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\bin\Debug\net8.0\04.MixedupLists-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\bin\Debug\net8.0\04.MixedupLists-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\bin\Debug\net8.0\04.MixedupLists-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\bin\Debug\net8.0\04.MixedupLists-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\obj\Debug\net8.0\04.MixedupLists-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\obj\Debug\net8.0\04.MixedupLists-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\obj\Debug\net8.0\04.MixedupLists-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\obj\Debug\net8.0\04.MixedupLists-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\obj\Debug\net8.0\04.MixedupLists-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\obj\Debug\net8.0\refint\04.MixedupLists-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\obj\Debug\net8.0\04.MixedupLists-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\obj\Debug\net8.0\04.MixedupLists-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\04.MixedupLists-MoreExercise\obj\Debug\net8.0\ref\04.MixedupLists-MoreExercise.dll
