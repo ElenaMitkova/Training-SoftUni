@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\obj\Debug\net8.0\refint\03.MOBAChallenger.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\03.MOBAChallenger\obj\Debug\net8.0\ref\03.MOBAChallenger.dll
