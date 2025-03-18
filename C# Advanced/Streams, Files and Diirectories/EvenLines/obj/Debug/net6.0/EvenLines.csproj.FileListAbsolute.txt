@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.exe
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll

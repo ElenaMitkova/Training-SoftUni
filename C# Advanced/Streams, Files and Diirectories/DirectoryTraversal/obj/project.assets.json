@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\SoftUni Advanced C#\\Skeleton_6.0-Exercise\\Skeleton-Exercise\\LineNumbers\\LineNumbers2.csproj",
-      "projectName": "LineNumbers2",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\SoftUni Advanced C#\\Skeleton_6.0-Exercise\\Skeleton-Exercise\\LineNumbers\\LineNumbers2.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\SoftUni Advanced C#\\Skeleton_6.0-Exercise\\Skeleton-Exercise\\DirectoryTraversal\\DirectoryTraversal.csproj",
+      "projectName": "DirectoryTraversal",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\SoftUni Advanced C#\\Skeleton_6.0-Exercise\\Skeleton-Exercise\\DirectoryTraversal\\DirectoryTraversal.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\SoftUni Advanced C#\\Skeleton_6.0-Exercise\\Skeleton-Exercise\\LineNumbers\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\SoftUni Advanced C#\\Skeleton_6.0-Exercise\\Skeleton-Exercise\\DirectoryTraversal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

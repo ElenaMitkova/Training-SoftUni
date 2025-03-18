@@ -1,23 +1,38 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 namespace LineNumbers;
 public class LineNumbers
 {
     static void Main()
     {
-        string inputPath = @"..\..\..\Files\input.txt";
-        string outputPath = @"..\..\..\Files\output.txt";
-        RewriteFileWithLineNumbers(inputPath, outputPath);
+        string inputFilePath = @"..\..\..\text.txt";
+        string outputFilePath = @"..\..\..\output.txt";
+        ProcessLines(inputFilePath, outputFilePath);
     }
-    public static void RewriteFileWithLineNumbers(string inputFilePath, string outputFilePath)
+    public static void ProcessLines(string inputFilePath, string outputFilePath)
     {
         using (StreamReader reader = new StreamReader(inputFilePath))
         {
             using (StreamWriter writer = new StreamWriter(outputFilePath))
             {
-                int countLines = 0;
+                int countLines = 1;
                 while (!reader.EndOfStream)
                 {
-                    writer.WriteLine($"{++countLines}. {reader.ReadLine()}");
+                    string line = reader.ReadLine();
+                    int lettersCount = 0;
+                    int punctuationCount = 0;
+                    for (int i = 0; i < line.Length; i++)
+                    {
+                        if (char.IsLetter(line[i]))
+                        {
+                            lettersCount++;
+                        }
+                        else if (char.IsPunctuation(line[i]))
+                        {
+                            punctuationCount++;
+                        }
+                    }
+                    writer.WriteLine($"Line {countLines++}. {line} ({lettersCount})({punctuationCount})");
                 }
             }
         }

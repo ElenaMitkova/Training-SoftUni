@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers2.exe
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers2.deps.json
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers2.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers2.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers2.pdb
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers2.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers2.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers2.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\refint\LineNumbers2.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers2.pdb
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers2.genruntimeconfig.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\ref\LineNumbers2.dll
