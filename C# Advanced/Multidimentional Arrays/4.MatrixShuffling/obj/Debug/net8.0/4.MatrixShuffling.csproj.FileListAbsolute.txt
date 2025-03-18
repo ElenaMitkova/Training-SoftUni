@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\obj\Debug\net8.0\refint\4.MatrixShuffling.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\4.MatrixShuffling\obj\Debug\net8.0\ref\4.MatrixShuffling.dll
