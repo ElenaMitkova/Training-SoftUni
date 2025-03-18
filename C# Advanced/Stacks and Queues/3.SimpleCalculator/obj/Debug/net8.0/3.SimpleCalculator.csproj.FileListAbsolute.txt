@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\obj\Debug\net8.0\refint\3.SimpleCalculator.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.SimpleCalculator\obj\Debug\net8.0\ref\3.SimpleCalculator.dll

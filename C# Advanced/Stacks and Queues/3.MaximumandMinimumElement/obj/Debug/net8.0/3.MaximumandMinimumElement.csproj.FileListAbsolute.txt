@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\bin\Debug\net8.0\3.MaximumandMinimumElement.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\bin\Debug\net8.0\3.MaximumandMinimumElement.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\bin\Debug\net8.0\3.MaximumandMinimumElement.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\bin\Debug\net8.0\3.MaximumandMinimumElement.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\bin\Debug\net8.0\3.MaximumandMinimumElement.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\obj\Debug\net8.0\3.MaximumandMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\obj\Debug\net8.0\3.MaximumandMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\obj\Debug\net8.0\3.MaximumandMinimumElement.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\obj\Debug\net8.0\3.MaximumandMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\obj\Debug\net8.0\3.MaximumandMinimumElement.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\obj\Debug\net8.0\refint\3.MaximumandMinimumElement.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\obj\Debug\net8.0\3.MaximumandMinimumElement.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\obj\Debug\net8.0\3.MaximumandMinimumElement.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\3.MaximumandMinimumElement\obj\Debug\net8.0\ref\3.MaximumandMinimumElement.dll
