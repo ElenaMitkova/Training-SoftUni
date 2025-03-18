@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\bin\Debug\net6.0\02.CarRace-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\bin\Debug\net6.0\02.CarRace-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\bin\Debug\net6.0\02.CarRace-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\bin\Debug\net6.0\02.CarRace-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\bin\Debug\net6.0\02.CarRace-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\obj\Debug\net6.0\02.CarRace-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\obj\Debug\net6.0\02.CarRace-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\obj\Debug\net6.0\02.CarRace-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\obj\Debug\net6.0\02.CarRace-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\obj\Debug\net6.0\02.CarRace-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\obj\Debug\net6.0\refint\02.CarRace-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\obj\Debug\net6.0\02.CarRace-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\obj\Debug\net6.0\02.CarRace-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.CarRace-MoreExercise\obj\Debug\net6.0\ref\02.CarRace-MoreExercise.dll

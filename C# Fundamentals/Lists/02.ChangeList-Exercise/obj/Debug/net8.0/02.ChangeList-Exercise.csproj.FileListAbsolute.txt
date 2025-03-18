@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\bin\Debug\net8.0\02.ChangeList-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\bin\Debug\net8.0\02.ChangeList-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\bin\Debug\net8.0\02.ChangeList-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\bin\Debug\net8.0\02.ChangeList-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\bin\Debug\net8.0\02.ChangeList-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\obj\Debug\net8.0\02.ChangeList-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\obj\Debug\net8.0\02.ChangeList-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\obj\Debug\net8.0\02.ChangeList-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\obj\Debug\net8.0\02.ChangeList-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\obj\Debug\net8.0\02.ChangeList-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\obj\Debug\net8.0\refint\02.ChangeList-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\obj\Debug\net8.0\02.ChangeList-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\obj\Debug\net8.0\02.ChangeList-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\02.ChangeList-Exercise\obj\Debug\net8.0\ref\02.ChangeList-Exercise.dll
