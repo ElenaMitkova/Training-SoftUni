@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\refint\10.ThePartyReservationFilterModule.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\ref\10.ThePartyReservationFilterModule.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\bin\Debug\net8.0\9.PredicateParty!.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\bin\Debug\net8.0\9.PredicateParty!.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\bin\Debug\net8.0\9.PredicateParty!.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\bin\Debug\net8.0\9.PredicateParty!.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\bin\Debug\net8.0\9.PredicateParty!.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\obj\Debug\net8.0\9.PredicateParty!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\obj\Debug\net8.0\9.PredicateParty!.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\obj\Debug\net8.0\9.PredicateParty!.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\obj\Debug\net8.0\9.PredicateParty!.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\obj\Debug\net8.0\9.PredicateParty!.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\obj\Debug\net8.0\refint\9.PredicateParty!.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\obj\Debug\net8.0\9.PredicateParty!.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\obj\Debug\net8.0\9.PredicateParty!.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\9.PredicateParty!\obj\Debug\net8.0\ref\9.PredicateParty!.dll
