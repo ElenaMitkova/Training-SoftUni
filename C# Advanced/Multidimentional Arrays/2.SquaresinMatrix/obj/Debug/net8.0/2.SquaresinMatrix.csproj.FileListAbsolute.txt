@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\bin\Debug\net8.0\2.SquaresinMatrix.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\bin\Debug\net8.0\2.SquaresinMatrix.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\bin\Debug\net8.0\2.SquaresinMatrix.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\bin\Debug\net8.0\2.SquaresinMatrix.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\bin\Debug\net8.0\2.SquaresinMatrix.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\obj\Debug\net8.0\2.SquaresinMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\obj\Debug\net8.0\2.SquaresinMatrix.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\obj\Debug\net8.0\2.SquaresinMatrix.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\obj\Debug\net8.0\2.SquaresinMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\obj\Debug\net8.0\2.SquaresinMatrix.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\obj\Debug\net8.0\refint\2.SquaresinMatrix.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\obj\Debug\net8.0\2.SquaresinMatrix.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\obj\Debug\net8.0\2.SquaresinMatrix.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-MultidimentionalArrays\2.SquaresinMatrix\obj\Debug\net8.0\ref\2.SquaresinMatrix.dll
