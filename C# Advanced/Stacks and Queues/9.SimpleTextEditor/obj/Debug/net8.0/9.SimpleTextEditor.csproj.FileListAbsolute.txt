@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\bin\Debug\net8.0\9.SimpleTextEditor.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\bin\Debug\net8.0\9.SimpleTextEditor.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\bin\Debug\net8.0\9.SimpleTextEditor.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\bin\Debug\net8.0\9.SimpleTextEditor.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\bin\Debug\net8.0\9.SimpleTextEditor.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\obj\Debug\net8.0\9.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\obj\Debug\net8.0\9.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\obj\Debug\net8.0\9.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\obj\Debug\net8.0\9.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\obj\Debug\net8.0\9.SimpleTextEditor.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\obj\Debug\net8.0\refint\9.SimpleTextEditor.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\obj\Debug\net8.0\9.SimpleTextEditor.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\obj\Debug\net8.0\9.SimpleTextEditor.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\9.SimpleTextEditor\obj\Debug\net8.0\ref\9.SimpleTextEditor.dll

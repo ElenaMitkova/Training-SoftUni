@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\bin\Debug\net8.0\8.BalancedParenthesis.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\bin\Debug\net8.0\8.BalancedParenthesis.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\bin\Debug\net8.0\8.BalancedParenthesis.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\bin\Debug\net8.0\8.BalancedParenthesis.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\bin\Debug\net8.0\8.BalancedParenthesis.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\obj\Debug\net8.0\8.BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\obj\Debug\net8.0\8.BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\obj\Debug\net8.0\8.BalancedParenthesis.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\obj\Debug\net8.0\8.BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\obj\Debug\net8.0\8.BalancedParenthesis.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\obj\Debug\net8.0\refint\8.BalancedParenthesis.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\obj\Debug\net8.0\8.BalancedParenthesis.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\obj\Debug\net8.0\8.BalancedParenthesis.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\8.BalancedParenthesis\obj\Debug\net8.0\ref\8.BalancedParenthesis.dll
