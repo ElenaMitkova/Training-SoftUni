@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\bin\Debug\net8.0\04.Students-Exrcise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\bin\Debug\net8.0\04.Students-Exrcise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\bin\Debug\net8.0\04.Students-Exrcise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\bin\Debug\net8.0\04.Students-Exrcise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\bin\Debug\net8.0\04.Students-Exrcise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\obj\Debug\net8.0\04.Students-Exrcise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\obj\Debug\net8.0\04.Students-Exrcise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\obj\Debug\net8.0\04.Students-Exrcise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\obj\Debug\net8.0\04.Students-Exrcise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\obj\Debug\net8.0\04.Students-Exrcise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\obj\Debug\net8.0\refint\04.Students-Exrcise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\obj\Debug\net8.0\04.Students-Exrcise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\obj\Debug\net8.0\04.Students-Exrcise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\04.Students-Exrcise\obj\Debug\net8.0\ref\04.Students-Exrcise.dll
