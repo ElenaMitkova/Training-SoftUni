@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\refint\02.OldestFamilyMember.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\ref\02.OldestFamilyMember.dll

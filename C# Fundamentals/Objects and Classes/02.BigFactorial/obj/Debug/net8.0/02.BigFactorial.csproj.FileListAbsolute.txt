@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\obj\Debug\net8.0\refint\02.BigFactorial.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\02.BigFactorial\obj\Debug\net8.0\ref\02.BigFactorial.dll
