@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\bin\Debug\net8.0\4.EvenTimes.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\bin\Debug\net8.0\4.EvenTimes.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\bin\Debug\net8.0\4.EvenTimes.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\bin\Debug\net8.0\4.EvenTimes.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\bin\Debug\net8.0\4.EvenTimes.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\obj\Debug\net8.0\4.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\obj\Debug\net8.0\4.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\obj\Debug\net8.0\4.EvenTimes.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\obj\Debug\net8.0\4.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\obj\Debug\net8.0\4.EvenTimes.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\obj\Debug\net8.0\refint\4.EvenTimes.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\obj\Debug\net8.0\4.EvenTimes.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\obj\Debug\net8.0\4.EvenTimes.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.EvenTimes\obj\Debug\net8.0\ref\4.EvenTimes.dll

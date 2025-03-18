@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\bin\Debug\net8.0\5.CitiesbyContinentandCountry.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\bin\Debug\net8.0\5.CitiesbyContinentandCountry.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\bin\Debug\net8.0\5.CitiesbyContinentandCountry.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\bin\Debug\net8.0\5.CitiesbyContinentandCountry.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\bin\Debug\net8.0\5.CitiesbyContinentandCountry.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\obj\Debug\net8.0\5.CitiesbyContinentandCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\obj\Debug\net8.0\5.CitiesbyContinentandCountry.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\obj\Debug\net8.0\5.CitiesbyContinentandCountry.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\obj\Debug\net8.0\5.CitiesbyContinentandCountry.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\obj\Debug\net8.0\5.CitiesbyContinentandCountry.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\obj\Debug\net8.0\refint\5.CitiesbyContinentandCountry.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\obj\Debug\net8.0\5.CitiesbyContinentandCountry.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\obj\Debug\net8.0\5.CitiesbyContinentandCountry.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\5.CitiesbyContinentandCountry\obj\Debug\net8.0\ref\5.CitiesbyContinentandCountry.dll

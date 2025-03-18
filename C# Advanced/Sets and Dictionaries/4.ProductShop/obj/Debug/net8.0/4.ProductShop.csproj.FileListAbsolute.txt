@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\bin\Debug\net8.0\4.ProductShop.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\bin\Debug\net8.0\4.ProductShop.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\bin\Debug\net8.0\4.ProductShop.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\bin\Debug\net8.0\4.ProductShop.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\bin\Debug\net8.0\4.ProductShop.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\obj\Debug\net8.0\4.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\obj\Debug\net8.0\4.ProductShop.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\obj\Debug\net8.0\4.ProductShop.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\obj\Debug\net8.0\4.ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\obj\Debug\net8.0\4.ProductShop.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\obj\Debug\net8.0\refint\4.ProductShop.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\obj\Debug\net8.0\4.ProductShop.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\obj\Debug\net8.0\4.ProductShop.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\4.ProductShop\obj\Debug\net8.0\ref\4.ProductShop.dll
