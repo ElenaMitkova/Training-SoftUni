@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\bin\Debug\net6.0\03.TakeSkipRope-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\bin\Debug\net6.0\03.TakeSkipRope-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\bin\Debug\net6.0\03.TakeSkipRope-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\bin\Debug\net6.0\03.TakeSkipRope-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\bin\Debug\net6.0\03.TakeSkipRope-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\obj\Debug\net6.0\03.TakeSkipRope-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\obj\Debug\net6.0\03.TakeSkipRope-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\obj\Debug\net6.0\03.TakeSkipRope-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\obj\Debug\net6.0\03.TakeSkipRope-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\obj\Debug\net6.0\03.TakeSkipRope-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\obj\Debug\net6.0\refint\03.TakeSkipRope-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\obj\Debug\net6.0\03.TakeSkipRope-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\obj\Debug\net6.0\03.TakeSkipRope-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.TakeSkipRope-MoreExercise\obj\Debug\net6.0\ref\03.TakeSkipRope-MoreExercise.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\bin\Debug\net8.0\03.HouseParty-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\bin\Debug\net8.0\03.HouseParty-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\bin\Debug\net8.0\03.HouseParty-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\bin\Debug\net8.0\03.HouseParty-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\bin\Debug\net8.0\03.HouseParty-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\obj\Debug\net8.0\03.HouseParty-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\obj\Debug\net8.0\03.HouseParty-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\obj\Debug\net8.0\03.HouseParty-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\obj\Debug\net8.0\03.HouseParty-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\obj\Debug\net8.0\03.HouseParty-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\obj\Debug\net8.0\refint\03.HouseParty-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\obj\Debug\net8.0\03.HouseParty-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\obj\Debug\net8.0\03.HouseParty-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\03.HouseParty-Exercise\obj\Debug\net8.0\ref\03.HouseParty-Exercise.dll
