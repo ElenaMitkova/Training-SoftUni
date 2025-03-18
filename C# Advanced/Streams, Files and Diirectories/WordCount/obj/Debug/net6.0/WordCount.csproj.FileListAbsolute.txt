@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll

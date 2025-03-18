@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.exe
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.deps.json
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\refint\CopyBinaryFile.dll
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.genruntimeconfig.cache
+C:\Users\Acer\Desktop\SoftUni Advanced C#\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\ref\CopyBinaryFile.dll
