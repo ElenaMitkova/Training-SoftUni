@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\bin\Debug\net8.0\5.FilterByAge.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\bin\Debug\net8.0\5.FilterByAge.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\bin\Debug\net8.0\5.FilterByAge.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\bin\Debug\net8.0\5.FilterByAge.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\bin\Debug\net8.0\5.FilterByAge.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\obj\Debug\net8.0\5.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\obj\Debug\net8.0\5.FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\obj\Debug\net8.0\5.FilterByAge.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\obj\Debug\net8.0\5.FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\obj\Debug\net8.0\5.FilterByAge.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\obj\Debug\net8.0\refint\5.FilterByAge.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\obj\Debug\net8.0\5.FilterByAge.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\obj\Debug\net8.0\5.FilterByAge.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.FilterByAge\obj\Debug\net8.0\ref\5.FilterByAge.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\bin\Debug\net8.0\5.AppliedArithmetics.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\bin\Debug\net8.0\5.AppliedArithmetics.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\bin\Debug\net8.0\5.AppliedArithmetics.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\bin\Debug\net8.0\5.AppliedArithmetics.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\bin\Debug\net8.0\5.AppliedArithmetics.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\obj\Debug\net8.0\5.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\obj\Debug\net8.0\5.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\obj\Debug\net8.0\5.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\obj\Debug\net8.0\5.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\obj\Debug\net8.0\5.AppliedArithmetics.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\obj\Debug\net8.0\refint\5.AppliedArithmetics.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\obj\Debug\net8.0\5.AppliedArithmetics.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\obj\Debug\net8.0\5.AppliedArithmetics.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\5.AppliedArithmetics\obj\Debug\net8.0\ref\5.AppliedArithmetics.dll
