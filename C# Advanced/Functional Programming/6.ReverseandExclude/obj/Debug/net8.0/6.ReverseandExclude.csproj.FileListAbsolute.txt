@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\bin\Debug\net8.0\6.ReverseandExclude.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\bin\Debug\net8.0\6.ReverseandExclude.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\bin\Debug\net8.0\6.ReverseandExclude.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\bin\Debug\net8.0\6.ReverseandExclude.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\bin\Debug\net8.0\6.ReverseandExclude.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\obj\Debug\net8.0\6.ReverseandExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\obj\Debug\net8.0\6.ReverseandExclude.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\obj\Debug\net8.0\6.ReverseandExclude.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\obj\Debug\net8.0\6.ReverseandExclude.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\obj\Debug\net8.0\6.ReverseandExclude.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\obj\Debug\net8.0\refint\6.ReverseandExclude.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\obj\Debug\net8.0\6.ReverseandExclude.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\obj\Debug\net8.0\6.ReverseandExclude.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\6.ReverseandExclude\obj\Debug\net8.0\ref\6.ReverseandExclude.dll

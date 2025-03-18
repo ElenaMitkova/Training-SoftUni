@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\bin\Debug\net8.0\7.PredicateForNames.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\bin\Debug\net8.0\7.PredicateForNames.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\bin\Debug\net8.0\7.PredicateForNames.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\bin\Debug\net8.0\7.PredicateForNames.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\bin\Debug\net8.0\7.PredicateForNames.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\obj\Debug\net8.0\7.PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\obj\Debug\net8.0\7.PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\obj\Debug\net8.0\7.PredicateForNames.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\obj\Debug\net8.0\7.PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\obj\Debug\net8.0\7.PredicateForNames.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\obj\Debug\net8.0\refint\7.PredicateForNames.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\obj\Debug\net8.0\7.PredicateForNames.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\obj\Debug\net8.0\7.PredicateForNames.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\7.PredicateForNames\obj\Debug\net8.0\ref\7.PredicateForNames.dll
