@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\obj\Debug\net8.0\refint\06.ReplaceRepeatingChars.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\06.ReplaceRepeatingChars\obj\Debug\net8.0\ref\06.ReplaceRepeatingChars.dll
