@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\bin\Debug\net8.0\05.BombNumbers-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\bin\Debug\net8.0\05.BombNumbers-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\bin\Debug\net8.0\05.BombNumbers-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\bin\Debug\net8.0\05.BombNumbers-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\bin\Debug\net8.0\05.BombNumbers-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\obj\Debug\net8.0\05.BombNumbers-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\obj\Debug\net8.0\05.BombNumbers-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\obj\Debug\net8.0\05.BombNumbers-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\obj\Debug\net8.0\05.BombNumbers-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\obj\Debug\net8.0\05.BombNumbers-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\obj\Debug\net8.0\refint\05.BombNumbers-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\obj\Debug\net8.0\05.BombNumbers-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\obj\Debug\net8.0\05.BombNumbers-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.BombNumbers-Exercise\obj\Debug\net8.0\ref\05.BombNumbers-Exercise.dll

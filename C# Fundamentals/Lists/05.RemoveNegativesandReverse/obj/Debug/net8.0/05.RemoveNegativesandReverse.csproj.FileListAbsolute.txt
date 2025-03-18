@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\obj\Debug\net8.0\refint\05.RemoveNegativesandReverse.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.RemoveNegativesandReverse\obj\Debug\net8.0\ref\05.RemoveNegativesandReverse.dll

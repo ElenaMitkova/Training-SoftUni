@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\bin\Debug\net8.0\05.DrumSet-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\bin\Debug\net8.0\05.DrumSet-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\bin\Debug\net8.0\05.DrumSet-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\bin\Debug\net8.0\05.DrumSet-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\bin\Debug\net8.0\05.DrumSet-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\obj\Debug\net8.0\05.DrumSet-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\obj\Debug\net8.0\05.DrumSet-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\obj\Debug\net8.0\05.DrumSet-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\obj\Debug\net8.0\05.DrumSet-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\obj\Debug\net8.0\05.DrumSet-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\obj\Debug\net8.0\refint\05.DrumSet-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\obj\Debug\net8.0\05.DrumSet-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\obj\Debug\net8.0\05.DrumSet-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\05.DrumSet-MoreExercise\obj\Debug\net8.0\ref\05.DrumSet-MoreExercise.dll
