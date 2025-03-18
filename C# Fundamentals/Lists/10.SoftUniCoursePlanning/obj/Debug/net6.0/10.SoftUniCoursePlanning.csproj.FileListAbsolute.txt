@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\obj\Debug\net6.0\refint\10.SoftUniCoursePlanning.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\10.SoftUniCoursePlanning\obj\Debug\net6.0\ref\10.SoftUniCoursePlanning.dll

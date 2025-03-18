@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\bin\Debug\net8.0\08.AnonymousThreat-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\bin\Debug\net8.0\08.AnonymousThreat-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\bin\Debug\net8.0\08.AnonymousThreat-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\bin\Debug\net8.0\08.AnonymousThreat-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\bin\Debug\net8.0\08.AnonymousThreat-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\obj\Debug\net8.0\08.AnonymousThreat-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\obj\Debug\net8.0\08.AnonymousThreat-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\obj\Debug\net8.0\08.AnonymousThreat-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\obj\Debug\net8.0\08.AnonymousThreat-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\obj\Debug\net8.0\08.AnonymousThreat-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\obj\Debug\net8.0\refint\08.AnonymousThreat-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\obj\Debug\net8.0\08.AnonymousThreat-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\obj\Debug\net8.0\08.AnonymousThreat-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\08.AnonymousThreat-Exercise\obj\Debug\net8.0\ref\08.AnonymousThreat-Exercise.dll

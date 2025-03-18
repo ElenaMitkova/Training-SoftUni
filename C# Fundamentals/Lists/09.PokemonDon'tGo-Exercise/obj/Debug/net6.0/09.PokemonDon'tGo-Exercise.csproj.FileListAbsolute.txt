@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\bin\Debug\net6.0\09.PokemonDon'tGo-Exercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\bin\Debug\net6.0\09.PokemonDon'tGo-Exercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\bin\Debug\net6.0\09.PokemonDon'tGo-Exercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\bin\Debug\net6.0\09.PokemonDon'tGo-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\bin\Debug\net6.0\09.PokemonDon'tGo-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\obj\Debug\net6.0\09.PokemonDon'tGo-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\obj\Debug\net6.0\09.PokemonDon'tGo-Exercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\obj\Debug\net6.0\09.PokemonDon'tGo-Exercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\obj\Debug\net6.0\09.PokemonDon'tGo-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\obj\Debug\net6.0\09.PokemonDon'tGo-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\obj\Debug\net6.0\refint\09.PokemonDon'tGo-Exercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\obj\Debug\net6.0\09.PokemonDon'tGo-Exercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\obj\Debug\net6.0\09.PokemonDon'tGo-Exercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\09.PokemonDon'tGo-Exercise\obj\Debug\net6.0\ref\09.PokemonDon'tGo-Exercise.dll
