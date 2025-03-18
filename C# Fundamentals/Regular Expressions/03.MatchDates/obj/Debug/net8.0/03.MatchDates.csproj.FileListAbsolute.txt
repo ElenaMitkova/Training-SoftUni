@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\bin\Debug\net8.0\03.MatchDates.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\bin\Debug\net8.0\03.MatchDates.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\bin\Debug\net8.0\03.MatchDates.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\bin\Debug\net8.0\03.MatchDates.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\bin\Debug\net8.0\03.MatchDates.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\obj\Debug\net8.0\03.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\obj\Debug\net8.0\03.MatchDates.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\obj\Debug\net8.0\03.MatchDates.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\obj\Debug\net8.0\03.MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\obj\Debug\net8.0\03.MatchDates.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\obj\Debug\net8.0\refint\03.MatchDates.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\obj\Debug\net8.0\03.MatchDates.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\obj\Debug\net8.0\03.MatchDates.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-RegularExpressions\03.MatchDates\obj\Debug\net8.0\ref\03.MatchDates.dll
