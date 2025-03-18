@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\refint\05.ShoppingSpree.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\ref\05.ShoppingSpree.dll
