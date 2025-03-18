@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\obj\Debug\net8.0\refint\05.HTML.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\05.HTML\obj\Debug\net8.0\ref\05.HTML.dll
