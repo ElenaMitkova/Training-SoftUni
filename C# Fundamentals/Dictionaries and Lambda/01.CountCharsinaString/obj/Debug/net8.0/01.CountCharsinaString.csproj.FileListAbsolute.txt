@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\bin\Debug\net8.0\01.CountCharsinaString.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\bin\Debug\net8.0\01.CountCharsinaString.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\bin\Debug\net8.0\01.CountCharsinaString.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\bin\Debug\net8.0\01.CountCharsinaString.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\bin\Debug\net8.0\01.CountCharsinaString.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\obj\Debug\net8.0\01.CountCharsinaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\obj\Debug\net8.0\01.CountCharsinaString.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\obj\Debug\net8.0\01.CountCharsinaString.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\obj\Debug\net8.0\01.CountCharsinaString.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\obj\Debug\net8.0\01.CountCharsinaString.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\obj\Debug\net8.0\refint\01.CountCharsinaString.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\obj\Debug\net8.0\01.CountCharsinaString.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\obj\Debug\net8.0\01.CountCharsinaString.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-DictionariesLambdaAndLINQ\01.CountCharsinaString\obj\Debug\net8.0\ref\01.CountCharsinaString.dll
