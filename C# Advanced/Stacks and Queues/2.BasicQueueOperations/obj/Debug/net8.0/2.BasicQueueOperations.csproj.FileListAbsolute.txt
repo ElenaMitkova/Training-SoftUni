@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\obj\Debug\net8.0\2.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\obj\Debug\net8.0\2.BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\obj\Debug\net8.0\2.BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\obj\Debug\net8.0\2.BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\bin\Debug\net8.0\2.BasicQueueOperations.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\bin\Debug\net8.0\2.BasicQueueOperations.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\bin\Debug\net8.0\2.BasicQueueOperations.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\bin\Debug\net8.0\2.BasicQueueOperations.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\bin\Debug\net8.0\2.BasicQueueOperations.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\obj\Debug\net8.0\2.BasicQueueOperations.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\obj\Debug\net8.0\refint\2.BasicQueueOperations.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\obj\Debug\net8.0\2.BasicQueueOperations.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\obj\Debug\net8.0\2.BasicQueueOperations.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\2.BasicQueueOperations\obj\Debug\net8.0\ref\2.BasicQueueOperations.dll
