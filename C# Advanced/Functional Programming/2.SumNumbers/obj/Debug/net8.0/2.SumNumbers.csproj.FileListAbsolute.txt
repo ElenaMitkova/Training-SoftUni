@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\bin\Debug\net8.0\2.SumNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\refint\2.SumNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\2.SumNumbers.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\2.SumNumbers\obj\Debug\net8.0\ref\2.SumNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\bin\Debug\net8.0\1.SortEvenNumbers.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\bin\Debug\net8.0\1.SortEvenNumbers.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\bin\Debug\net8.0\1.SortEvenNumbers.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\bin\Debug\net8.0\1.SortEvenNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\bin\Debug\net8.0\1.SortEvenNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\obj\Debug\net8.0\1.SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\obj\Debug\net8.0\1.SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\obj\Debug\net8.0\1.SortEvenNumbers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\obj\Debug\net8.0\1.SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\obj\Debug\net8.0\1.SortEvenNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\obj\Debug\net8.0\refint\1.SortEvenNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\obj\Debug\net8.0\1.SortEvenNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\obj\Debug\net8.0\1.SortEvenNumbers.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\1.SortEvenNumbers\obj\Debug\net8.0\ref\1.SortEvenNumbers.dll
