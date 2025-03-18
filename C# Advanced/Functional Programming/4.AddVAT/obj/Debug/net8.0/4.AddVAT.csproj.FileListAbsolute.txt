@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\bin\Debug\net8.0\4.AddVAT.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\bin\Debug\net8.0\4.AddVAT.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\bin\Debug\net8.0\4.AddVAT.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\bin\Debug\net8.0\4.AddVAT.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\bin\Debug\net8.0\4.AddVAT.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\obj\Debug\net8.0\4.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\obj\Debug\net8.0\4.AddVAT.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\obj\Debug\net8.0\4.AddVAT.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\obj\Debug\net8.0\4.AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\obj\Debug\net8.0\4.AddVAT.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\obj\Debug\net8.0\refint\4.AddVAT.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\obj\Debug\net8.0\4.AddVAT.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\obj\Debug\net8.0\4.AddVAT.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\4.AddVAT\obj\Debug\net8.0\ref\4.AddVAT.dll

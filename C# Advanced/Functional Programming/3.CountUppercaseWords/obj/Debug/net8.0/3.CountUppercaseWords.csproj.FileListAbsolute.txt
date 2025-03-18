@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\bin\Debug\net8.0\3.CountUppercaseWords.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\bin\Debug\net8.0\3.CountUppercaseWords.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\bin\Debug\net8.0\3.CountUppercaseWords.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\bin\Debug\net8.0\3.CountUppercaseWords.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\bin\Debug\net8.0\3.CountUppercaseWords.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\obj\Debug\net8.0\3.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\obj\Debug\net8.0\3.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\obj\Debug\net8.0\3.CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\obj\Debug\net8.0\3.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\obj\Debug\net8.0\3.CountUppercaseWords.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\obj\Debug\net8.0\refint\3.CountUppercaseWords.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\obj\Debug\net8.0\3.CountUppercaseWords.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\obj\Debug\net8.0\3.CountUppercaseWords.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-FunctionalProgramming\3.CountUppercaseWords\obj\Debug\net8.0\ref\3.CountUppercaseWords.dll
