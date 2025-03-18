@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\bin\Debug\net8.0\7.HotPotato.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\bin\Debug\net8.0\7.HotPotato.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\bin\Debug\net8.0\7.HotPotato.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\bin\Debug\net8.0\7.HotPotato.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\bin\Debug\net8.0\7.HotPotato.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\obj\Debug\net8.0\7.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\obj\Debug\net8.0\7.HotPotato.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\obj\Debug\net8.0\7.HotPotato.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\obj\Debug\net8.0\7.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\obj\Debug\net8.0\7.HotPotato.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\obj\Debug\net8.0\refint\7.HotPotato.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\obj\Debug\net8.0\7.HotPotato.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\obj\Debug\net8.0\7.HotPotato.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.HotPotato\obj\Debug\net8.0\ref\7.HotPotato.dll

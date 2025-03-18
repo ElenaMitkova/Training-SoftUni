@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\bin\Debug\net8.0\7.TruckTour.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\bin\Debug\net8.0\7.TruckTour.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\bin\Debug\net8.0\7.TruckTour.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\bin\Debug\net8.0\7.TruckTour.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\bin\Debug\net8.0\7.TruckTour.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\obj\Debug\net8.0\7.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\obj\Debug\net8.0\7.TruckTour.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\obj\Debug\net8.0\7.TruckTour.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\obj\Debug\net8.0\7.TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\obj\Debug\net8.0\7.TruckTour.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\obj\Debug\net8.0\refint\7.TruckTour.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\obj\Debug\net8.0\7.TruckTour.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\obj\Debug\net8.0\7.TruckTour.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-StacksAndQueues\7.TruckTour\obj\Debug\net8.0\ref\7.TruckTour.dll
