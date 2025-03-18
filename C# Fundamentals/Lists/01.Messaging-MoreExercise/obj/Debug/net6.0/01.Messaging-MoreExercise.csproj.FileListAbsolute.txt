@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\bin\Debug\net6.0\01.Messaging-MoreExercise.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\bin\Debug\net6.0\01.Messaging-MoreExercise.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\bin\Debug\net6.0\01.Messaging-MoreExercise.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\bin\Debug\net6.0\01.Messaging-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\bin\Debug\net6.0\01.Messaging-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\obj\Debug\net6.0\01.Messaging-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\obj\Debug\net6.0\01.Messaging-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\obj\Debug\net6.0\01.Messaging-MoreExercise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\obj\Debug\net6.0\01.Messaging-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\obj\Debug\net6.0\01.Messaging-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\obj\Debug\net6.0\refint\01.Messaging-MoreExercise.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\obj\Debug\net6.0\01.Messaging-MoreExercise.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\obj\Debug\net6.0\01.Messaging-MoreExercise.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.Messaging-MoreExercise\obj\Debug\net6.0\ref\01.Messaging-MoreExercise.dll

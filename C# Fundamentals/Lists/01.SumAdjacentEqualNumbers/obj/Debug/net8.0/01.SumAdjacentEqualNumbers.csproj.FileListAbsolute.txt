@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\refint\01.SumAdjacentEqualNumbers.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-Lists\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\ref\01.SumAdjacentEqualNumbers.dll
