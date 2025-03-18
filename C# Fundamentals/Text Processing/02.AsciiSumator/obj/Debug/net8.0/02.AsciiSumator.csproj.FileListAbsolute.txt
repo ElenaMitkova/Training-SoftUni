@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.exe
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.deps.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\obj\Debug\net8.0\refint\02.AsciiSumator.dll
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.pdb
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(September-December)Fundamentals-TextProcessing\02.AsciiSumator\obj\Debug\net8.0\ref\02.AsciiSumator.dll
