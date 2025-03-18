@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\bin\Debug\net8.0\9.SoftUniExamResults.exe
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\bin\Debug\net8.0\9.SoftUniExamResults.deps.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\bin\Debug\net8.0\9.SoftUniExamResults.runtimeconfig.json
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\bin\Debug\net8.0\9.SoftUniExamResults.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\bin\Debug\net8.0\9.SoftUniExamResults.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\obj\Debug\net8.0\9.SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\obj\Debug\net8.0\9.SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\obj\Debug\net8.0\9.SoftUniExamResults.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\obj\Debug\net8.0\9.SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\obj\Debug\net8.0\9.SoftUniExamResults.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\obj\Debug\net8.0\refint\9.SoftUniExamResults.dll
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\obj\Debug\net8.0\9.SoftUniExamResults.pdb
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\obj\Debug\net8.0\9.SoftUniExamResults.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SoftUni(January-February)Advanced-SetsAndDictionariesAdvanced\9.SoftUniExamResults\obj\Debug\net8.0\ref\9.SoftUniExamResults.dll
